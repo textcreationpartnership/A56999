@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance or declaration of the state of the kingdome agreed on by the Lords and Commons assembled in Parliament the 19th of May, MDCXLII : with divers depositions and letters thereunto annexed.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 132KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56999</idno><idno type="EEBO-CITATION">11066729</idno>
+  <idno type="VID">46219</idno>
+  <idno type="EEBO-PROQUEST">2264181295</idno>
+  
+            <idno type="STC">Wing R1023</idno>
+            <idno type="STC">ESTC R29293</idno>
+            <idno type="OCLC">11066729</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1430:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance or declaration of the state of the kingdome agreed on by the Lords and Commons assembled in Parliament the 19th of May, MDCXLII : with divers depositions and letters thereunto annexed.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>50 [i.e. 48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D. for F.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Earlier editions have title: A remonstrance of the state of the kingdome.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46219:1"/>
+            <pb facs="tcp:46219:1"/>
+            <p>A REMONSTRANCE OR DECLARATION OF THE <hi>STATE</hi> OF THE <hi>KINGDOME.</hi>
+            </p>
+            <p>
+               <hi>Agreed on</hi> By the LORDS and COMMONS Assembled in PARLIAMENT the 19<seg rend="sup">th</seg>. of <hi>May.</hi> MDCXLII.</p>
+            <p>With divers <hi>Depositions</hi> and <hi>Letters,</hi> thereunto annexed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die JOVIS. 19. <hi>Maij.</hi> 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Jt is this day ordered by the</hi> LORDS <hi>and</hi> COMMONS <hi>in</hi> PARLIAMENT <hi>assembled, that this</hi> DECLARATION, <hi>together with the</hi> DEPOSITIONS <hi>shall be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. ELSYNG Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. O.</hi> and <hi>G. D.</hi> for <hi>F.C.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46219:2"/>
+            <pb n="1" facs="tcp:46219:2"/>
+            <head>A REMONSTRANCE of the state of the KINGDOME.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He infinite Mercy and Providence of the Almighty God hath been abun<g ref="char:EOLhyphen"/>dantly manifested since the begin<g ref="char:EOLhyphen"/>ning of this Parliament in great va<g ref="char:EOLhyphen"/>riety of protections and blessings, whereby hee hath not onely delive<g ref="char:EOLhyphen"/>red us from many wicked plots and designes, which if they had taken effect, would have brought ruine and destruction upon this Kingdome, but out of those attemps have produced divers evident and remarkable advanta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to the furtherance of those ser<g ref="char:EOLhyphen"/>vices which we have beene desirous to performe to our Soveraigne Lord the King, and to this Church and S<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e in providing for the publique peace and prosperity of his Majesty and all his Realmes, which in the presence of the same All-seeing Deity, we protest to have beene, and still to be the onely end of all our councells and endeavours wherin we have resolved to continue freed and enlarged from all private aimes, personall respects or passions whatsoever.</p>
+            <p>In which Resolution, we are nothing discouraged al<g ref="char:EOLhyphen"/>though
+<pb n="2" facs="tcp:46219:3"/> the heads of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alignant party disappointed of that prey, the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> and <hi>Liberty</hi> of this Kingdome, which they were ready to seize upon and devour before the beginning of this Parliament, have still persisted by new practices, both of force and subtilty, to r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cover the same againe; for which purpose, they have made severall attempts for the bringing <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Army, they after<g ref="char:EOLhyphen"/>ward projected the false accusation of the Lord <hi>Kim<g ref="char:EOLhyphen"/>bolton,</hi> and the five members of the House of Commons, which being in it selfe of an odious nature, they yet so farre prevailed with his Majesty, as to procure him to take it upon himselfe; but when the inchangeable duty and faithfulnes of the Parliament could not be wrought upon by such a fact of that to withdraw any part of their reverence and obedience from his Majesty, they have with much art and industry, advised his Majesty to suf<g ref="char:EOLhyphen"/>fer divers unjust scandalls and imputations upon the Parliament to be published in his name whereby they might make it odious to the people, and by their helpe to destroy that which hitherto hath beene the onely meanes of their owne preservation.</p>
+            <p>For this purpose they have drawn his Majesty into the Northerne parts farre from the Parliament, that so false rumors might have time to get credit, and the just de<g ref="char:EOLhyphen"/>fences of the Parliament find a more tedious difficult and disadvantageous successe; after those false imputations and slanders had beene first rooted in the apprehension of his Majesty and his Subjects, which the more speedily to effect, they have caused a Presse to be transported to <hi>Yorke,</hi> from whence severall <hi>Papers</hi> and <hi>Writings</hi> of that kinde are conveyed to all parts of the Kingdome with<g ref="char:EOLhyphen"/>out the authority of the great Seale in an unusuall and illegall manner, and without the advice of his Majesties privie Councell from the greater and better part
+<pb n="3" facs="tcp:46219:3"/> whereof having withdrawne himselfe, as well as from his great Councell of <hi>Parliament;</hi> he is thereby exposed to the wicked and unfaithfull councels of such as have made the Wisedome and Justice of the Parliament dan<g ref="char:EOLhyphen"/>gerous to themselves, and this danger they labour to prevent by hiding their owne guilt under the name and shadow of the King, infusing into him their owne feares, and as much as in them lies, aspersing his Royall Person and Honour wish their owne infamy, from both which, it hath alwayes beene as much the care, as it is the du<g ref="char:EOLhyphen"/>ty of the Parliament to preserve his Majestie, and to fixe the guilt of all evill Actions and Councels upon those who have beene the Authors of them.</p>
+            <p>Amongst divers Writings of this kind, We the Lords and Commons in Parliament have taken into our con<g ref="char:EOLhyphen"/>sideration two printed Papers, the first containing a <hi>De<g ref="char:EOLhyphen"/>claration,</hi> which they received from his Majesty in An<g ref="char:EOLhyphen"/>swer to that which was presented to his Majestie from both Houses of Parliament at <hi>Newmarket,</hi> the ninth of <hi>March</hi> 1641. The other his Majesties Answer to the Petition of both Houses, presented to his Majestie at <hi>Yorke,</hi> the 26. of <hi>March</hi> 1642. Both which are filled with harsh censures and causelesse charges upon the Par<g ref="char:EOLhyphen"/>liement, concerning which, Wee hold it necessary to give satisfacton to the Kingdome, seeing wee find it ve<g ref="char:EOLhyphen"/>ry difficult to satisfie his Majestie, who to our great griefe we have found to be so ingaged to, and possessed by those misapprehensions which evill <hi>Counsellors</hi> have wrought in him, that our most humble and and faithfull Remon<g ref="char:EOLhyphen"/>strances have rather irritated and imbittered, then any thing allayed or mittigated the sharp expressions which his Majestie hath beene pleased to make in answere unto them; for the manifestation whereof, and our owne
+<pb n="4" facs="tcp:46219:4"/> innocency, wee desire that all his Majesties loving Sub<g ref="char:EOLhyphen"/>jects may take notice of these particulars.</p>
+            <p>We know no occasion given by us which might move his Majesty to tell us, that in our Declaration presented at <hi>Nenmarkes,</hi> there were some expressions different from the usuall Language to Princes: neither did wee tell his Majesty in words, or in effect, that if hee did not joyne with us in an Act which his Majesty conceived might prove prejudicialliand dangerous to himselfe and the whole Kingdome, we would make a Law without him, and impose it upon the people. That which we de<g ref="char:EOLhyphen"/>sired, was, that in regard of the emminent danger of the kingdome the <hi>Militia</hi> for the security of his Majesty and his people, might be put under the command of such noble and faithfull Persons, as they had all cause to con<g ref="char:EOLhyphen"/>fide in; and such was the necessity of this prevention, that wee declared, that if his Majesty should refuse to joyne with us therein; the two houses of Parliament be<g ref="char:EOLhyphen"/>ing the Supreme Court and highest Councell of the Kingdome were enabled by their owne Authority, to provide for the repulsing of such emminent and evident danger, not by any new Law of their owne making, as hath beene untruly suggested to his Majesty but by the most ancient Law of this Kingdome, even that which is fundamentall and essentiall to the constitution and subsistance of it.</p>
+            <p>Although we never desired to encourage his Majesty to such replyes as might produce any contestation be<g ref="char:EOLhyphen"/>twixt him and his Parliament, of which we never found better effect, then losse of time, and hinderance of the publique affaires; yet we have, beene farre from telling him of how little value his words would be with us, much lesse when they are accompanied with actions of
+<pb n="5" facs="tcp:46219:4"/> Love and Justice: his Majesty hath more reason to finde fault with those wicked Councellors, who have so of<g ref="char:EOLhyphen"/>ten bereaved him of the honour, and his people of the fruit of many gracious speeches which he made to them, such as those in the end of the last Parliament; <hi>That in the Word of a King, and as he was a Gentleman, he would re<g ref="char:EOLhyphen"/>dresse the grievances of his people, as well out of Parliament as in it;</hi> where the searching the Studies and Chambers, yea, the Pockets of some, both of the Nobility and Com<g ref="char:EOLhyphen"/>mons the very next day: The commitment of Master <hi>Bellasis,</hi> Sir <hi>John Hotham</hi> and Master <hi>Crew,</hi> the continued oppessions of Ship-money, Coat and Conduct money, with the manifold imprisonments and other vexati<g ref="char:EOLhyphen"/>ons thereupon, and other insuing violations of the Laws and Liberties of the Kingdome (all which were the ef<g ref="char:EOLhyphen"/>fects of evill Councell, and abundantly declared in our generall Remonstrance of the State of the Kingdome) Actions of Love &amp; Justice sutable to such words as these.</p>
+            <p>As gracious was his Majesties speech in the beginning of this Parliement, <hi>That hee was resolved to put himselfe freely and clearely upon the love and affection of his English Subjects;</hi> whether his causelesse complaints and jealou<g ref="char:EOLhyphen"/>sies, the unjust imputations so often cast upon his Parlia<g ref="char:EOLhyphen"/>ment, his deniall of their necessary defence by the Ordi<g ref="char:EOLhyphen"/>nance of the <hi>Militia,</hi> his dangerous absenting himselfe from his great Councell, like to produce such a mischie<g ref="char:EOLhyphen"/>ous division in the Kingdome have not beene more suta<g ref="char:EOLhyphen"/>ble to other mens evill counsels, then to his own Words will easily appeare to any indifferent judgement.</p>
+            <p>Neither have his latter speeches beene better used and preserved by these evill and wicked Councellors. Could any words be fuller of Love and Justice, then those in the Answer to the Message sent to the House of
+<pb n="6" facs="tcp:46219:5"/> Commons the 31. of <hi>December,</hi> 1641. <hi>Wee doe engage un<g ref="char:EOLhyphen"/>to you solemnely the word of a King, that the security of all and every one of you from violence is, and ever shall bee, as much our care as the preservation of us and our Children,</hi> and could any Actions be fuller of Iniustice and violence, then that of the Attourney, generall in falsly accusing the Members of Parliament, and the other proceedings thereupon within three or foure dayes, after that Mes<g ref="char:EOLhyphen"/>sage; for the full view whereof, let the Declaration made of those proceedings be perused, and by those instances we could adde many more;) Let the world Judge who deserves to be taxed with disvaluing his Maiesties words they who have as much as in them lies stained and sul<g ref="char:EOLhyphen"/>lied them with such fowle Councells or the Parliament, who have ever manifested with Ioy and delight, their humble thankefulnesse for those gracious words and Actions of Love and Iustice, which have beene con<g ref="char:EOLhyphen"/>formable thereunto.</p>
+            <p>The King is pleased to disavow the having any such evill Councell or Councellors, as are mentioned in our Declaration to his knowledge; and we hold it our du<g ref="char:EOLhyphen"/>ty, humbly to avow there are such, or else we must say, that all the ill things done of late in his Maiesties name, have beene done by himselfe, wherein we should neither follow the direction of the Law, nor the affection of our owne hearts, which is as much as may be to cleare his Maiestie from all imputation of misgovernment, and to lay the fault upon his Ministers: The false accusing of sixe Members of Parliament, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustifying Master <hi>At<g ref="char:EOLhyphen"/>turney</hi> in that false accusation, the violent comming to the House of Commons, the deniall of the <hi>Militia,</hi> the sharpe <hi>Message</hi> to both Houses, contrary to the customes of former Kings; The long and remote absence of his
+<pb n="7" facs="tcp:46219:5"/>
+               <hi>Majestie</hi> from <hi>Porliamen,</hi> the heavy and wrongfull taxe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon both Houses, the cherishing and countenancing a discontented partie in the <hi>Kingdom</hi> against them, these certainly are the fruits of very ill Councell apt to put the Kingdome into a combustion, to hinder the supplies of <hi>Ireland,</hi> and to countenance the proceedings and pre<g ref="char:EOLhyphen"/>tensions of the <hi>Rebels</hi> there, and the <hi>Authors</hi> of these e<g ref="char:EOLhyphen"/>vill Councell, wee conceive must needs be knowne to his <hi>Majestie,</hi> and we hope our labouring with his <hi>Maie<g ref="char:EOLhyphen"/>stie,</hi> to have these discovered, and brought to a just cen<g ref="char:EOLhyphen"/>sure will not so much wound his Honour in the opinion of his good Subiects, as his labouring to preserve and conceale them.</p>
+            <p>And whereas his <hi>Maiestie</hi> saith, <hi>He could wish that his owne mediate Actions which he avowes on his owne owne Ho<g ref="char:EOLhyphen"/>nour, might not be so roughly censured under that common stile of evill Councellors;</hi> Wee could also heartily wish, that we had not cause to make that style so common, but how often and undutifull soever these wicked Counsellors fixe their dishonour upon the King by making his <hi>Maie<g ref="char:EOLhyphen"/>stie</hi> the Author of those evill Actions, which are effects of their owne evill Councels; we his <hi>Maiesties</hi> Loyall and dutifull Subiects can use no other Style according to that <hi>Maxime</hi> in the Law, <hi>The King can doe no wrong,</hi> but if any ill bee committed in matters of State, the Councell, if in matters of Iustice, the <hi>Judges</hi> must an<g ref="char:EOLhyphen"/>swer for it.</p>
+            <p>Wee lay no charge upon his <hi>Maiestie,</hi> which should put him upon that APOLOGIE, concerning his faithfull and zealous assertion of the Protestant Profession, nei<g ref="char:EOLhyphen"/>ther doth his <hi>Maiestie</hi> endeavour to cleare those in greatest authoritie about him, by whom (wee say) that designe hath been potently carryed on for divers yeares,
+<pb n="8" facs="tcp:46219:6"/> and we rather wish that the mercies of Heaven, then, the Iudgements may be manifested upon them, but that there have beene such, there are so plentifull, and frequent Evidences, that wee beleeve there is none either Protestant or Papist, who hath had any reaso<g ref="char:EOLhyphen"/>nable view of the passages of latter times, but either in feare or hope, did expect a sudden issue of this de<g ref="char:EOLhyphen"/>signe.</p>
+            <p>We have no way transgressed against the Act of Ob<g ref="char:EOLhyphen"/>livion, by remembring the intended <hi>VVarre</hi> against <hi>Scotland,</hi> as a branch of that designe to alter <hi>Religion,</hi> by those wicked Counsells from which God did then deliver us, which we ought never to forget.</p>
+            <p>That the Rebellion in <hi>Jreland</hi> was framed and che<g ref="char:EOLhyphen"/>risht by the Popish and malignant party in <hi>England,</hi> is not only affirmed by the Rebels, but may bee cleared by many other proofes; The same rebellions Principles of pretended <hi>Religion,</hi> the same politique ends are ap<g ref="char:EOLhyphen"/>parant in both, and their malitious designes, and pra<g ref="char:EOLhyphen"/>ctises are mask't and disguised with the same false Colours, of their earnest zeale to vindicate his <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> Prerogative from the supposed oppression of the Parliament. How much these trecherous pretences have bin countenanced by some evill Councells about his Majesty may appeare in this, that the Proclamati<g ref="char:EOLhyphen"/>on whereby they were declared Traitours, was so long with held, as to the second of <hi>Ianuary,</hi> though the Re<g ref="char:EOLhyphen"/>bellion broke forth in <hi>October</hi> before, and then no more but forty Coppies appointed to be printed with a spe<g ref="char:EOLhyphen"/>ciall Command from his Majesty, not to exceed that number, and that none of them should be published till his Majesties pleasure were further signified, as by the warrant appeares a true Coppy, whereof hereunto is
+<pb n="9" facs="tcp:46219:6"/> added, so that a few onely could take notice of it, which was made more observable by the late contrary pro<g ref="char:EOLhyphen"/>ceedings against the <hi>Scots,</hi> who were in a very quick and sharp manner proclaimed, and those proclamations forth with dispersed with as much diligence as might bee, thorough all the Kingdome, and ordered to bee read in all Churches, accompanied with publick pray<g ref="char:EOLhyphen"/>ers, and execrations, and other evidence of favour, and countenance of the Rebells, in some of power about his Majestie, is this that they have put forth in his Ma<g ref="char:EOLhyphen"/>jesties name, a causelesse complaint against the Parlia<g ref="char:EOLhyphen"/>ment, which speaketh the same Language of the Parli<g ref="char:EOLhyphen"/>ament which the Rebels doe, thereby to raise a belief in mens mindes, that his Majesties affections are alie<g ref="char:EOLhyphen"/>nated aswell as his Person is removed from that his great Councell; all which doth exceedingly retard the supplies of <hi>Ireland,</hi> and more advance the procee<g ref="char:EOLhyphen"/>dings of the Rebells, then any Jealousie or misappre<g ref="char:EOLhyphen"/>hension begotten, in his Subjects, by the Declaration of the Rebells, Injunction of <hi>Rossettie,</hi> or Informati<g ref="char:EOLhyphen"/>on of <hi>Trestram, Whitcombe,</hi> so that considering the pre<g ref="char:EOLhyphen"/>sent state and temper of both Kingdomes, his Royall presence is farre more necessary here then it can bee in <hi>Jreland</hi> for redemption or Protection of his Subjects there.</p>
+            <p>And whether there bee any cause of his Majesties great indignation for being reproach'd,<note place="margin">His Majesty not charged with intention of any force.</note> to have inten<g ref="char:EOLhyphen"/>ded force or threatning to the Parliament. We desire them to consider who shall read our Declaration, in which there is no word tending to any such reproach, and certainely we have beene more tender of his Ma<g ref="char:EOLhyphen"/>jesties Honour in this point, then he whosoever he was that did write this Declaration, wherein his Majesties
+<pb n="10" facs="tcp:46219:7"/> name; He doth call God to witnesse, hee never had any such thought, or knew of any such resolution of bring<g ref="char:EOLhyphen"/>ing up the Army, which truly will seem strange to those who shall read the Deposition of Mr. GORINGS Infor<g ref="char:EOLhyphen"/>mation, of Mr. PERCY, and divers other examinations, of Mr. WILMOT, Mr. POSLARD and others, the other Examination of Captaine LEGG, Sir JACOB ASHLEY, Sir JOHN CONYERS, and consider the condition and nature of the Petition which was sent to Sir JACOB ASHLEY, under the Approbation of CAROLVS REX, which his Majesty doth now acknowledge to be his own hand, and being full of scandall to the <hi>Parliament,</hi> might have proved dangerous to the whole Kingdome, if the Army should have interposed betwixt the <hi>King</hi> and them as was desired.</p>
+            <p>
+               <note place="margin">Mr. <hi>Jer<g ref="char:EOLhyphen"/>mins</hi> es<g ref="char:EOLhyphen"/>cape by his Majesties Warrant.</note>Wee doe not affirme that his Majesties <hi>Warrant</hi> was granted for the passage of Master <hi>Jermin,</hi> after the desire of both <hi>Houses</hi> for restraint of his Servants; but onely that he did passe over after that restraint by vertue of such a Warrant. We know the warrant beares date th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day before our desire; yet it seems strange to those who know how great a respect and power <hi>Mr.</hi> GERMIN had in <hi>Court,</hi> that hee should begin his journey in such haste, and in apparell so unfit for travell, as a black Sat<g ref="char:EOLhyphen"/>tin suit and white boots, if his going away were designed the day before.</p>
+            <p>The accusation of the Lord KIMBOLTON, and the five Members of the <hi>House</hi> of <hi>Commons,</hi> is called a breach of Priviledge; and truly so it was, and a very high one, farre above any satisfaction that hath beene yet given; how can it be said to bee largely satisfied, so long as his <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> labours to preserve <hi>Mr. Attourney</hi> from punish<g ref="char:EOLhyphen"/>ment, who was the visible Actor in it so long as his Ma<g ref="char:EOLhyphen"/>jestie
+<pb n="11" facs="tcp:46219:7"/> hath not onely justified him, but by his Letter de<g ref="char:EOLhyphen"/>clared that it was his duty to accuse them, and that hee would have punished him, if hee had not done it, so long as these members have not the meanes of clearing their innocency, and the Authors of that malicious charge undiscovered, though both Houses of Parliament have severall times petitioned his Majestie to discover them, and that not onely upon grounds of common justice, but by act of Parliament his Majestie is bound to doe it, so long as the King refuseth to passe a Bill for their dis<g ref="char:EOLhyphen"/>charge alledging that the Narrative in that Bill is against his honour, whereby he seemes still to avow the matter of that false and scandalous accusation, though he deserts the prosecution, offering to passe a Bill for their acquittall yet with intimation that they must desert the avowing their owne innocen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, which would more wound them in honour, then secure them in Law.</p>
+            <p>And in vindication of this great Priviledge of Parlia<g ref="char:EOLhyphen"/>ment, we doe not know that wee have invaded any pri<g ref="char:EOLhyphen"/>viledge belonging to his Majesty, as is alledged in this Declaration: But we loooke not upon this onely in the notion of a breach of priviledge, which might be, though the accusation were true or false; but under the notion of a heynous crime in the <hi>Attourney,</hi> and all other Subjects who had a hand in it; a crime against the Law of Nature, against the rules of Justice, that inno<g ref="char:EOLhyphen"/>cent men should be charged with so great an offence as Treason in the face of the highest Judicatory of the Kingdome, whereby their lives and estates, their blood and honour are indangered without witnesses, without evidence, without all possibility of reparation in a legall course, yet a crime of such a nature, that his Majesties command can no more warrant then it can any other
+<pb n="12" facs="tcp:46219:8"/> Act of Injustice; It is true that those things which are evill in their owne nature, such as a false testimony or false accusation cannot be the subject of any com<g ref="char:EOLhyphen"/>mand or, or induce any obligation of obedience upon any man by any Authority whatsoever; therefore the <hi>Attourney</hi> in this case was bound to refuse to execute such a command unlesse hee had some such evidence or Testimony as might have warranted him against the parties, and be liable to make satisfaction if it should prove salse; and it is sufficiently knowne to every man and adjudged in Parliament that the King can be neither relator, informer, nor witnesse; if it rest as it is with<g ref="char:EOLhyphen"/>out further satisfaction, no future Parliament can be safe; but that the members may be taken and destroyed at pleasure, yea, the very principles of Government and Justice will be in danger to be disobeyed.</p>
+            <p>
+               <note place="margin">Tumultu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us num<g ref="char:EOLhyphen"/>bers.</note>Wee doe not conceive that numbers doe make an assembly unlawfull, but when either the end or man<g ref="char:EOLhyphen"/>ner of their carriage shall be unlawfull; divers just oc<g ref="char:EOLhyphen"/>casions might draw the Citizens to <hi>Westminster,</hi> where many publique and private Petitions, and other causes were depending in Parliament, and why that should be found more faulty in the Citizens, then the resort of great numbers every day in the terme to the ordinary Courts of Justice, we know not: that these Citizens were notoriously provoked and assaulted at <hi>Westminster</hi> by Co<g ref="char:EOLhyphen"/>lonel <hi>Lunsford,</hi> Captaine <hi>Hide,</hi> with divers, and by others, and by some of the servants of the Archbishop of <hi>Yorke,</hi> is sufficiently proved, and that afterward they were more violently wounded, and most barbarously mangled with swords by the officers and souldiers neere <hi>White<g ref="char:EOLhyphen"/>hall,</hi> many of them being without weapons, and giving <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o cause of dist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, as is likewise proved by severall testi<g ref="char:EOLhyphen"/>monies,
+<pb n="13" facs="tcp:46219:8"/> but of any scandalous or seditious misdemea<g ref="char:EOLhyphen"/>nors of theirs that might give his Majesty good cause to suppose his owne Person, or those of his royall Consort, or Children to be in apparant danger, wee have had no proofe ever offered to either House; and if there had beene any complaint of that kinde, it is no doubt, the Houses would have been as forward to joyne in an Order for the suppressing of such tumults as they were: not long before upon another occasion when they made an Order to that purpose, whereas those officers and souldiers which committed that violence upon so many of the Citizens at <hi>Whitehall</hi> were cherish'd and fostered in his Majesties house, and when not long after the com<g ref="char:EOLhyphen"/>mon Councel of <hi>London</hi> presented a Petition to his Ma<g ref="char:EOLhyphen"/>jestie for reparation of those injuries, his Majesties An<g ref="char:EOLhyphen"/>swer was, without hearing the proofe of the complaints, that if any Citizens were wounded or ill intreated his Majestie was confidently assured that it happened by their owne evill and corrupt demeanour, wee hope it cannot be thought contrary to the duty and wisdome of a Parliament, if many concurring and frequently reite<g ref="char:EOLhyphen"/>rated &amp; renewed advertisements from <hi>Rome Venice, Paris,</hi> and other parts, of the solicitation of the <hi>Popes Nuncio</hi> and our own discontented fugitives doe make us jealous and watchfull for the safety of the <hi>State;</hi> and wee have beene very carefull to make our expressions thereof so easie and so plaine to the capacities and understanding of the people, that nothing might justly sticke with them, with reflection upon the Person of his Maiesty, wherein we appeale to the iudgement of any indifferent person, who shall read and peruse our owne words.</p>
+            <p>We must maintaine the grounds of our feares to be of that moment that wee cannot discharge the trust and
+<pb n="14" facs="tcp:46219:9"/> duty which lies upon us, unlesse we doe apply our selves to the use of those meanes to which the Law hath en<g ref="char:EOLhyphen"/>abled us in cases of this nature for the necessary defence of the Kingdome; and as his Majesty doth graciously declare the Law shall be the measure of his power, so do we most heartily professe, that we shall alwayes make it the rule of our obedience.</p>
+            <p>The next point of our Declaration was with much caution artificially passed over by him,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rudent o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>issions in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Answer.</hi>
+               </note> who drew his Majesties Answer, it being indeed the foundation of all our misery, and his Majesties trouble, that he is pleased to heare generall taxes upon his Parliament without any particular charge, to which they may give satisfacti<g ref="char:EOLhyphen"/>on, and that he hath often conceived displeasure against particular persons upon mis-information, and although those informations have beene clearely proved to be false, yet he would never bring the accusers to question, which, layeth an impossibility upon honest men, of clea<g ref="char:EOLhyphen"/>ring themselves, and gives encouragemt unto false and unworthy persons to trouble him with untrue and groundlesse informations?</p>
+            <p>Three particulars we mentioned in our Declaration, which the Penner of that Answer had good cause to omit, the words supposed to be spoken at <hi>Kensington</hi> the pretended Articles against the <hi>Queene;</hi> and the ground<g ref="char:EOLhyphen"/>lesse accusation of the sixe Members of the Parliament, there being, nothing to be said in defence or deniall of any of them. Concerning his Majesties desire to ioyne with his Parliament, and with his faithfull Subiects in defence of Religion, and publique good of the King<g ref="char:EOLhyphen"/>dome, we doubt not but he will doe it fully, when evill Councellors shall be removed from about him, and un<g ref="char:EOLhyphen"/>till that be, as we shewed before of words, so must we
+<pb n="15" facs="tcp:46219:9"/> also say of Lawes that they cannot secure us, witnesse the Pe<g ref="char:EOLhyphen"/>tition of Right, which was followed with such an inundati<g ref="char:EOLhyphen"/>on of illegall taxes that we had just cause to thinke that the payment of 20000<seg rend="sup">l</seg>. was an easie burthen to the common<g ref="char:EOLhyphen"/>wealth in exchange of them, and we cannot but iustly thinke that if there be a continuance of such ill Councellors, and favour to them, they will by some wicked devise or other make the Bill for the Trienniall Parliment, and those other excellent Lawes mentioned in his Maiesties Declaration of of lesse value then words.</p>
+            <p>That excellent Bill for the continuance of this Parlia<g ref="char:EOLhyphen"/>ment was so necessary, that without it, wee could not have raised so great summes of money for the service of his Ma<g ref="char:EOLhyphen"/>iesty and the Common-wealth as wee have done; and without which, the ruine and destruction of the Kingdome must needs have followed; and wee are resolved the graci<g ref="char:EOLhyphen"/>ous favour of his Maiesty expressed in that Bill, and the ad<g ref="char:EOLhyphen"/>vantage and security which thereby we have from being dis<g ref="char:EOLhyphen"/>solved, shall not incourage us to doe any thing which other<g ref="char:EOLhyphen"/>wise had not beene fit to be done, and we are ready to make it good before all the world, that although his Maiesty hath passed many Bills very advantagious for the Subiect, yet in none of them have we bereaved his Maiesty of any necessa<g ref="char:EOLhyphen"/>ry or profitable prerogative of the Crowne.</p>
+            <p>Wee so earnestly desire his Maiesties returne to <hi>London,</hi> that upon it we conceive, depends the very safety and be<g ref="char:EOLhyphen"/>ing of both his Kingdomes; and therefore we must protest, that as for the time past, neither the government of <hi>London,</hi> nor any Lawes of the Land have lost their life and force for his security: So for the future, wee shall be ready to doe or say any thing that may stand with the Duty or Honour of a Parliament, which may raise a mutuall confidence be<g ref="char:EOLhyphen"/>twixt his Maiestie and us, as wee doe wish, and as the affaires of the Kingdome doe require.</p>
+            <pb n="16" facs="tcp:46219:10"/>
+            <p>Thus farre the Answer to that which is called his Ma<g ref="char:EOLhyphen"/>jesties <hi>Declaration</hi> hath led us. Now we come to that which is intituled <hi>His Majesties Answer to the Petition of both Hou<g ref="char:EOLhyphen"/>ses,</hi> presented to him at <hi>Yorke</hi> 26. <hi>Martij;</hi> 1642. In the be<g ref="char:EOLhyphen"/>ginning whereof his Majesty wisheth, <hi>That our Priviledges on all parts were so stated that this way of correspondencie might be preserved with that freedome which hath beene used of old:</hi> Wee know nothing introduced by us that gives any impediment hereunto; neither have wee affirmed our <hi>Priviledges</hi> to be broken, when his Maiesty denies us any thing, or gives a rea<g ref="char:EOLhyphen"/>son why he cannot grant it; or that those who advised such denyall, were enemies to the Peace of the Kingdome, and Favourers of the <hi>Irish Rebellion,</hi> in which aspertion that is turned into a generall assertion, which in our Votes is ap<g ref="char:EOLhyphen"/>plyed to a particular case: Wherefore we must maintaine our Votes, That those who advised his Maiesty to contra<g ref="char:EOLhyphen"/>dict that which both Houses in the Question concerning the <hi>Militia</hi> had delared to be Law, and command it should not so be obeyed, is a high Breach of Priviledge; and that those who advised his Maiesty to absent himselfe from his Parliament, are enemies to the Peace of the Kingdome, and iustly to be suspected to bee Favourers of the Rebellion in <hi>Jreland.</hi> The reasons of both are evident, because in the first there is as great a derogation from the Trust and Au<g ref="char:EOLhyphen"/>thority of Parliament, and in the second as much advan<g ref="char:EOLhyphen"/>tage to the Proceedings and hopes of <hi>Rebels</hi> as may be, and we hold it very causlesse imputation upon the Parliament, that we have herein any way impeached, much lesse taken a<g ref="char:EOLhyphen"/>way the <hi>freedom</hi> of his <hi>Maiesties votes</hi> which doth not import a liberty for his Maiesty to deny any thing how necessary soever for the preservation of the Kingdome, much lesse a Licence to evill Councellors to advise any thing though never so destructive to his Maiesty and his People.</p>
+            <p>By the Message of the 20th. of <hi>January</hi> his Majesty did
+<pb n="17" facs="tcp:46219:10"/> propound to both Houses of Parliament, that they would with all speed fall into a serious consideration of all these particulars which they should hold necessary, as well for the upholding and maintaining his Majesties just and Regall Authority, and for the present and future establishing our Priviledges, the free and quiet enjoying our estates, the Li<g ref="char:EOLhyphen"/>berties of our Persons, the security of the true Religion professed in the Church of <hi>England,</hi> and the setling of Ce<g ref="char:EOLhyphen"/>remonies in such a manner, as may take away all just offence, and to digest it into one intire body.</p>
+            <p>To that point of upholding and maintaining his Royall Authority, wee say nothing hath beene done to the preju<g ref="char:EOLhyphen"/>dice of it that should require any new Provision; To the other of setling the Revenew, the Parliament hath no way abridged or disordered his just Revenue, but it is true, that much wast and confusion of his Majesties estate, hath beene made by those evill and unfaithfull Ministers, whom he hath imployed in the managing of it, whereby his owne ordinary expences would have beene disappoint<g ref="char:EOLhyphen"/>ed and the safety of the Kingdome more indangered, if the Parliament had not in some measure provided for his Ho<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>hold, and for some of the affaires more then they were bound to doe, and they are still willing to settle such a Re<g ref="char:EOLhyphen"/>venue upon his <hi>Majesty,</hi> as may make him live Royally, plentifully and safely, but they cannot in wisedome and and fidelity to the Common-wealth, doe this till hee shall choose such Councellours, and Officers as may order and dispose to the publick good, and not apply it it to the ruine and distruction of his people as heretofore it hath been, but this and and the other matters concerning our selves being workes of great importance, and full of intricacy, will re<g ref="char:EOLhyphen"/>quire so long a time of deliberation, that the Kingdome might bee ruined before wee effect them, wherefore wee thought it necessary first to be suitors to his <hi>Maiesty,</hi> so to
+<pb n="18" facs="tcp:46219:11"/> order the <hi>Militia,</hi> that the Kingdome being secured, wee might with more ease and safety apply our selves to debate of that Message, wherein we have beene interrupted by his Majesties deniall of the Ordinance, concerning the same, because it would have beene in vaine for us to labour in o<g ref="char:EOLhyphen"/>ther things, and in the meane time to leave our selves na<g ref="char:EOLhyphen"/>ked to the malice of so many enemies, both at home and abroad, yet we have not been altogether negligent of those things, which his Majesty is pleased to propound in that Message, wee have agreed upon a Booke of Rates in a larg<g ref="char:EOLhyphen"/>er proportion then hath beene granted to any of his Ma<g ref="char:EOLhyphen"/>iesties Predecessors, which is a confiderable support of his Maiesties publick charge, and have likewise prepared di<g ref="char:EOLhyphen"/>vers propositions and Bills for preservation of our <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> and liberties, which we intend shortly to present to his <hi>Maiesty,</hi> and to doe whatsoever is fit for us, to make up this unpleasant breach betwixt his Majesty and the Parliament.</p>
+            <p>Whereas divers exceptions are here taken concerning the <hi>Militia,</hi> first that his <hi>Maiesty</hi> never denied the thing but accepted the persons, (except for Corporations) onely that he denyed the way; to which we answer that excepti<g ref="char:EOLhyphen"/>on takes off <hi>London,</hi> and all other great Townes and Ci<g ref="char:EOLhyphen"/>ties which make a great part of the Kingdome, and for the way of Ordinance it is ancient, more speedy more easily al<g ref="char:EOLhyphen"/>terable, and in all these and other respects more proper, and more applicable to the present occasion, then a Bill which his <hi>Maiesty</hi> calls the only good old way, of imposing upon the Subjects, it should seeme that neither his Maiesties Royall Predecessors, nor our Ancestors, have heretofore beene of that opinion, for 37. <hi>An. Edw.</hi> 3. We finde this Record, the Chancellour made declaration of the chal<g ref="char:EOLhyphen"/>lenge of the Parliament, The King desires to know the griefe of his Subjects, and to redresse Inormities; The last day of the Parliament, the King demanded of the whole
+<pb n="19" facs="tcp:46219:11"/> estates, whither they would have such things as they agreed on, by way of Ordinance or Statute, who answered by way of Ordinance, for that they may amend the same at their pleasures and so it was.</p>
+            <p>But his Majesty objects further, that there is some what in the preface, to which he could not consent with Justice to his Honour and Innocency, and that thereby hee is ex<g ref="char:EOLhyphen"/>cluded from any power in the disposing of it, these obje<g ref="char:EOLhyphen"/>ctions may seeme somewhat, but indeed will appeare no<g ref="char:EOLhyphen"/>thing when it shall be considered, that nothing in the Pre<g ref="char:EOLhyphen"/>amble layes any charge upon his MaJesty, nor in the Bo<g ref="char:EOLhyphen"/>die of that Ordinance that excludes His Royall Au<g ref="char:EOLhyphen"/>thoritie in the disposing or execution of it, but onely it is provided that it should bee signified by both Houses of Parliament, as that Channell through which it will be best derived, and most certainly to those ends for which it is intended, and let all the world judge, whether we have not reason to insist upon it, that the Strength of the Kingdome should rather be ordered according to the Direction and Advise of the great Counsell of the Land, equally intrusted by the King and the Kingdome, then that the safety of the King, Parliament and Kingdome should bee left at the De<g ref="char:EOLhyphen"/>votion of a few unknowne Councellours, many of them not intrusted at all by the King in any publick way, nor at all confided in by the Kingdome.</p>
+            <p>We wish the danger were not imminent or not still con<g ref="char:EOLhyphen"/>tinuing; but cannot conceive that the long time spent in this debate, is evidence sufficient, that there was no such necessity or danger, but a Bill might easily have beene pre<g ref="char:EOLhyphen"/>pared; for when many causes doe concurre to the danger of a State, the interruption of any one may hinder the exe<g ref="char:EOLhyphen"/>cution of the rest; and yet the Designe be still kept afoot for better opportunities. Who knowes whether the ill successe of the <hi>Rebels</hi> in <hi>Ireland</hi> have not hindered the In<g ref="char:EOLhyphen"/>surrection
+<pb n="20" facs="tcp:46219:12"/> of the Papists here? Whether the preservation of the sixe Members of the Parliament falsly accused, have not prevented the Plot of the breaking the neck of the <hi>Parliament;</hi> of which wee were informed from <hi>France</hi> not long before they were accused. Yet since his <hi>Majestie</hi> hath beene pleased to expresse his pleasure, rather for a Bill then an Ordinance, and sent in one for that purpose, wee readily entertained it, and with some small and necessary alterations speedily passed the same. But contrary to the custome of Parliament and our expectation grounded upon his Majesties owne invitation of us to that way, and the other reasons manifested in our Declaration concerning the <hi>Militia</hi> of the 5. of <hi>May;</hi> in stead of his Royall assent we met with an absolute refusall.</p>
+            <p>If the matter of these our <hi>Ʋotes</hi> 15. and 16. of <hi>March</hi> be according to Law, we hope his Majestie will allow the Sub<g ref="char:EOLhyphen"/>jects to be bound by them, because he hath said he will make the Law the rule of his power.</p>
+            <p>And if the Question bee whether that be Law which the <hi>Lords</hi> and <hi>Commons</hi> have once declared to be so; who shall be the Judge? not his Majestie; for the King judgeth not of matters of Law but by his Courts, and his Courts though sitting by his authority, expect not his assent in matters of Law; not any other Courts, for they cannot judge in that case, because they are inferiour, no appeale lying from <hi>Parliament;</hi> The judgement whereof is in the Eye of the Law the Kings judgement in his highest Court, though the King in his Person be neither present nor assenting there<g ref="char:EOLhyphen"/>unto.</p>
+            <div type="part">
+               <pb n="21" facs="tcp:46219:12"/>
+               <head>The Votes at which His Majestie takes Exceptions are these.</head>
+               <p n="1">
+                  <hi>1.</hi> That the Kings absence so farre remote from his Parliament is not onely an Obstruction, but may be a destruction to the affaires of of <hi>Ireland.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> That when the Lords and Commons shall declare what the Law of the Land is, to have this not only questioned and controverted but contradicted, and a Command that it should not be obeyed, is a high Breach of the Priviledge of Parliament.</p>
+               <p n="3">
+                  <hi>3.</hi> That those Persons that advised his Majestie to absent himself from the Parliament, are Enemies to the Peace of the Kingdome, and iustly to bee suspected to bee Favourers of the Rebellion in <hi>Ireland.</hi>
+               </p>
+               <p>That the Kingdome hath beene of late, and still is in evident and immi<g ref="char:EOLhyphen"/>nent danger, both from Enemies abroad, and a Popish and discontented party at home, that there is an urgent and inevitable necessitie of put<g ref="char:EOLhyphen"/>ting his Maiesties Subiects into a Posture of Defence, for the safe<g ref="char:EOLhyphen"/>guard both of his Maiestie and his People.</p>
+               <p>That the Lords and Commons fully apprehending this Danger, and being sensible of their owne Duty, to provide a sutable Prevention, have in severall Petitions addressed themselves to his Maiesty for the ordering and disposing of the <hi>Militia</hi> of the Kingdome, in such a way as was a<g ref="char:EOLhyphen"/>greed upon by the wisdome of both Houses to be most effectuall and proper for the present Exigents of the Kingdome, yet could not obtaine it, but his Maiesty did severall times refuse to give his royall assent therunto.</p>
+               <p>That in this case of extreame Danger, and his Maiesties refusall, the Ordinance of Parliament, agreed upon by both Houses for the <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>litia,</hi> doth ob<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge the People, and ought to be obeyed by the Fundamentall Lawes of this Kingdome.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:46219:13"/>
+               <p>BY all which it doth appeare, that there is no colour of this Taxe, that we goe about to introduce a new Law, much lesse to exercise an Arbitrary power, but indeed to prevent it: For this Law is as old as the Kingdome, That the Kingdome must not be without a meanes to preserve it self: Which that it may be done without Confusion, this Nation hath intrusted certaine hands with a Power, to provide in an Orderly and Regular Way for the good and safety of the whole, which Power by the Constitution of this Kingdom is in his Majesty and His Parliament together; yet since the Prince being but One Person, is more subject to Acci<g ref="char:EOLhyphen"/>dents of Nature and Chance, whereby the Common-wealth may be deprived of the Fruit of that Trust, which was in part re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osed in him in Cases of such Necessity; That the Kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dome may not be inforced presently to returne to it's first Principles, and every man left to doe what is right in his owne eyes, without either guide or Rule: the Wise<g ref="char:EOLhyphen"/>dome of this State hath intrusted the Houses of Parliament with a Power, to supply what shall be wanting on the part of the Prince, as is evident by the constant Custome and Practise thereof in Cases of Non-age, naturall Disability and Captivity, and the like Reason doth and must hold for the exercise of the same Power in such Cases, where the Royall Trust cannot be or is not discharged, and that the Kingdome runs an evident and imminent Danger thereby, which Danger having beene declared by the Lords and Commons in Parliament, there needes not the Authori<g ref="char:EOLhyphen"/>ty of any Person or Court to affirme; Nor is it in the Pow<g ref="char:EOLhyphen"/>er of any Person or Court to revoke that Judgement.</p>
+               <p>Wee know the King hath wayes enough in his Ordinary Courts of Justice, to punish such seditious Pamphlets and Sermons as are any way prejudiciall to his Rights, Ho<g ref="char:EOLhyphen"/>nour and Authority: And if any of them have beene so insolently violated and vilified, his Majesties owne Councell
+<pb n="23" facs="tcp:46219:13"/> and Officers have beene to blame, and not the Parliament: We never did restraine any Proceedings of that kind in o<g ref="char:EOLhyphen"/>ther Courts, nor refuse any fit complaint to us. The Pro<g ref="char:EOLhyphen"/>testation protested was referr'd by the Commons House to a Committee, and the Author being not produced, the Printer committed to Prison, and the Booke voted by that Committee to be burnt: but Sir <hi>Edward Deering</hi> who was to make that Report of the votes of that Committee, neg<g ref="char:EOLhyphen"/>lected to make it: The Apprentices Protestation was never complained of; but the other seditious Pamphlet, <hi>To your Tents O Jsraell,</hi> was once questioned, and the full prosecu<g ref="char:EOLhyphen"/>tion of it was not interrupted by any fault of either House, whose forwardnesse to doe his Majestie all right therein may plainly appeare, in that a Committee of Lords and Commons purposely appointed to take such Informations, as the Kings Counsell should present concerning seditious words Practises, or Tumults Pamphlets, or Sermons, ten<g ref="char:EOLhyphen"/>ding to the derogation of his Majesties Rights or Preroga<g ref="char:EOLhyphen"/>tive, and his Majesties Councell were enjoyned by that Committtee to inquire, and present them, who severall times met thereupon and received this Answere, and de<g ref="char:EOLhyphen"/>claration from the Kings Councell, that they knew of no such thing as yet.</p>
+               <p>If his Maiestie had used the Service of such a one in pen<g ref="char:EOLhyphen"/>ning this Answer, who understood the Lawes and Govern<g ref="char:EOLhyphen"/>ment of this Kingdome, hee would not have thought it le<g ref="char:EOLhyphen"/>gally in his power to deny his <hi>Parliament</hi> a guard when they stood in need of it, since every ordinary Court hath it: nei<g ref="char:EOLhyphen"/>ther would his Maiesty if he had been well inform'd of the Lawes, have refused such a Guard as they desired, it being in the power of inferiour Courts to command their owne Guard; neither would hee have imposed upon them such a Guard under a Commander which they could not confide in, which is clearly against the <hi>Priviledge</hi> of <hi>Parliament,</hi> and
+<pb n="24" facs="tcp:46219:14"/> of which they found very dangerous effects, and therefore desired to have it discharged: But such a Guard, and so com<g ref="char:EOLhyphen"/>manded as the Houses of <hi>Parliament</hi> desired, they could ne<g ref="char:EOLhyphen"/>ver ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine of his Maiestie, and the pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cing of a Guard a<g ref="char:EOLhyphen"/>bout them contrary to their desire, was not to grant a <hi>guard</hi> to them, but in effect to set one upon them.</p>
+               <p>All which considered, wee beleeve in the iudgement of any indifferent Persons, it will not bee thought strange, if there were a more then ordinary resort of people at <hi>West<g ref="char:EOLhyphen"/>minster;</hi> of such as came willingly of their owne accord to be witnesses and helpers of the safety of them, whom all his Maiesties good subiects are bound to defend from Violence and Danger: Or that such a Concourse as this, they carry<g ref="char:EOLhyphen"/>ing themselves quietly and peaceably (as they did) ought in his <hi>Maiesties</hi> apprehension, or can in the interpretation of the Law be held Tumultuary and seditious.</p>
+               <p>When his <hi>Maiestie</hi> in that Question of violation of the Lawes had expressed the observation of them indefinitely without any limitation of time, although we never said or did any thing that might look like a reproch to his <hi>Maiesty;</hi> yet we had reason to remember that it had been otherwise, lest we should seeme to desert our former Complaints and Proceedings thereupon, as his Maiestie doth seeme but lit<g ref="char:EOLhyphen"/>le to like or approve of them: For although hee doe ac<g ref="char:EOLhyphen"/>knowledge here that great mischiefe that grew by that Ar<g ref="char:EOLhyphen"/>bitrary power then complained of; Yet such are continu<g ref="char:EOLhyphen"/>ally prefer'd and countenanc'd, as were Friends or Favou<g ref="char:EOLhyphen"/>rers, or related unto the chiefe <hi>Authors</hi> and <hi>Actors</hi> of that <hi>Arbitrary power,</hi> and of those false Colours, Suggestion of imminent Danger and Necessity, whereby they did make it plaufible unto his Maiestie; and on the other side, such as did appeare against them, are dayly discountenanc'd and
+<pb n="25" facs="tcp:46219:14"/> disgraced; which, whilst it shall do so, we have no reason to iudge the Disease to bee yet kill<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and dead at root; and therefore no reason to bury it in Oblivion: and whilst wee behold the Spawnes of these mischievous Principles che<g ref="char:EOLhyphen"/>rish'd and fostered in that new generation of Councellors, Friends and Abettors of the former, or at least concurring with them in these mischievous Principles cherish'd and fostered in that new generation of Councellors, friends and abettors of the former, or at least concuring with them in their malignancie against the proceedings of this <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> we cannot thinke our selves secure from the like or a worse danger.</p>
+               <p>And here the Penner of this answer bestowes an admoni<g ref="char:EOLhyphen"/>tion upon the Parliament, bidding us take heed we fall not upon the same error, upon the same suggestions; but hee might have well spared this, till he could have shewed wher<g ref="char:EOLhyphen"/>in we had exercised any power otherwise then by the rule of the Law, or could have found a more authentique or higher Judge in matter of Law, then the high Court of Parliament.</p>
+               <p>It is declared in his Majesties name, that he is resolved to keep the rule himselfe, and to his power, to require the same of all others: We must needs acknowledge, that such a reso<g ref="char:EOLhyphen"/>lution is like to bring much happinesse and blessing to his Majesty and all his Kingdomes; yet with humility wee must confesse wee have not the fruit of it in that case of my Lord <hi>Kimbolton,</hi> and the other five Members accused, contrary to Law, both Common Law, and the Statute Law; and yet re<g ref="char:EOLhyphen"/>maineth unsatisfied; which case was remembred in our De<g ref="char:EOLhyphen"/>claration, as a strange an unheard of violation of Lawes: but the Penner of this Answer thought it fit to passe it over, hoping that many would reade his Majesties Answer, which
+<pb n="26" facs="tcp:46219:15"/> hath beene so carefully dispersed, which would not reade our Declaration.</p>
+               <p>Whereas after our ample thanks and acknowledgement of his Majesties favour in passing many good Bills, <hi>Wee said that Truth and Necessity inforced us to adde this, That in or about the time of passing those Bils, some Designe or other hath been afoot, which if it had taken effect, would not only have deprived us of the fruit of those Bills, but would have reduced us to a worse condition of confusion then that wherein the Parliament found us;</hi> it is now told us, that the King must be most sensible of what we cast upon him for requitall of those good Bills, whereas out of our usuall tendernesse of his Majesties honour we did not mention him at all, but so injurious are those wicked Coun<g ref="char:EOLhyphen"/>sellors to the name &amp; honour of their Master and Soveraign, that as much as they can, they lay their owne infamy and guilt upon his shoulders; Here God also is called to wit<g ref="char:EOLhyphen"/>nesse his Majesties upright intentions at the passing of those Lawes, this we will not question, neither did we give any oc<g ref="char:EOLhyphen"/>casion of such a solemne asseveration as this is, The Di<g ref="char:EOLhyphen"/>vell is likewise defied to prove there was any designe with his Majesties knowledge or privity, this might wel have bin spared, for we spoke nothing of his Majestie; but since we are so farre taxed, as to have it affirmed, that we laid a notorious and false imputation upon his Majesty, we have thought it necessary for the just defence of our owne innocency, to cause the Oaths and Examinations which have been taken concerning the designe to be published in a full narration for satisfaction of all his Majesties Subjects, out of which we shall now offer some few particulars whereby the world may judge, whether wee could have proceeded with more tendernesse towards his Majesty, then wee have done; Master <hi>Goring,</hi> confesseth that the King first askt him whether hee were engaged in any Caball concerning the
+<pb n="27" facs="tcp:46219:15"/> Army, and commanded him to joyne with Master <hi>Pearcy,</hi> and Master <hi>Jermyne,</hi> and some others whom they should finde within at Master <hi>Pearcies</hi> Chamber, where they took the Oath of Secrecy, and then debated of a designe pro<g ref="char:EOLhyphen"/>pounded by Master <hi>Jermyn</hi> to secure the Towre, and to consider of bringing up the Army ro London; and Cap<g ref="char:EOLhyphen"/>taine <hi>Legg</hi> confessed he had received the draught of a Pe<g ref="char:EOLhyphen"/>tition in the Kings presence, and his Majesty acknowledg<g ref="char:EOLhyphen"/>eth it was from his owne hand, and whosoever reads the summe of that Petition, as it was proved by the testimony of Sir <hi>Jacob Ashley,</hi> Sir <hi>John Connyers,</hi> and Captaine <hi>Legg</hi> will easily perceive some points in it apt to beget in them some discontent against the Parliament, and can any man beleeve there was no designe in the accusation of the Lord <hi>Kymbolton,</hi> and the rest, in which his Majestie doth avow himselfe to bee both Commander and an Actor, these things being so it will easily appeare to be as much against the Rules of Prudence, that the Penner of this Answer should intangle, as it is against the Rules of Justice, that any reparation from us, should bee either yeelded of demanded.</p>
+               <p>It is profest in his Majesties Name that he is truly sen<g ref="char:EOLhyphen"/>sible of the burthens of his people, which makes us hope that he will take that course which will be most effectuall to ease them of those burthens, that is, to joyne with his Parliament, in preserving the Peace of the Kingdome, which by his absence from them hath beene much indan<g ref="char:EOLhyphen"/>gered, and which by hindering the voluntary adven<g ref="char:EOLhyphen"/>tures for recovery of <hi>Ireland,</hi> and disabling the Subjects to discharge the great tax laid upon them, is like to make the Warre much more heavy to the Kingdome. And for his Majesties wants, the Parliament hath beene no cause of them: Wee have not diminished his just
+<pb n="28" facs="tcp:46219:16"/> Revenue, but have much eased his Publique charge, and somewhat his private, and We shall be ready in a Parlia<g ref="char:EOLhyphen"/>mentary way to settle his Revenue in such an honourable proportion as may be answerable to both, when he shall put himselfe into such a posture of government, that his Subjects may be secure to enjoy his just protection for their Religion, Lawes, and Liberties.</p>
+               <p>We never refused his Majesties gracious offer of a free and generall Pardon, onely We said it could be no securi<g ref="char:EOLhyphen"/>ty to our present feares and jealousies, and Wee gave a reason for it, That those feares did not arise out of any guilt of our owne Actions, but out of the evill designes and attempts of others, and We leave it to the World to Judge, whether We herein have deserved so heavy a taxe and exclamation That it was a strange world when Prin<g ref="char:EOLhyphen"/>ces proffered favours, are counted reproaches; (such are the words of his Majesties answer) who doe esteeme that offer as an Act of Princely Grace and Bounty; which since this Parliament began We have humbly desired we might obtaine, and doe still hold it very necessary and advanta<g ref="char:EOLhyphen"/>gious for the generality of the Subject, upon whom these Taxes and Subsidies lye heaviest, but We see upon every occasion how unhappy We are in his Majesties misappre<g ref="char:EOLhyphen"/>hensions of our words and actions.</p>
+               <p>We are fully of the Kings minde as it is here declared that he may rest so secure of the affections of his Subjects, that he should not stand in need of Forraign force, to pre<g ref="char:EOLhyphen"/>serve him from oppression, and are confident that he shall never want an abundant evidence of the good wishes and assistance of his whole Kingdome, especially if he shall be pleased to hold to that gracious Resolution of build<g ref="char:EOLhyphen"/>ing upon that sure foundation, the Law of the Land. But why his Majesty should take it ill that We having recei<g ref="char:EOLhyphen"/>ved
+<pb n="29" facs="tcp:46219:16"/> Informations so deeply, concerning the safety of the Kingdome, and should thinke them fit to be considered off; We cannot conceive, for although the name of the Person was unknowne, yet that which was more substanti<g ref="char:EOLhyphen"/>all to the probability of the Report, was knowne; (that is, that he was servant to the Lord <hi>Digby,</hi> who in his pre<g ref="char:EOLhyphen"/>sumptuous Letter to the Queenes Majestie, and other Letters to Sir <hi>Lewis Dives,</hi> had intimated some wicked preposition sutable to that Information, but that this should require Reparation: We hold it as farre from Justice as it is from Truth, that We have mixt any ma<g ref="char:EOLhyphen"/>lice with these Rumours, thereby to feede the feares and jealousies of the people.</p>
+               <p>It is affirmed, his Majestie is driven (but not by us yet;) from us perchance hereafter, if there be opertunity of gaining more credit, there will not be wanting who will suggest unto his Majesty that it is done by us; and if his Majesty were driven from us, We hope it was not by his owne feares, but by the feares of the Lord <hi>Digby</hi> and his Retinue of Cavileers, and that no feares of any tumul<g ref="char:EOLhyphen"/>tuary violence but of their just punishment for their ma<g ref="char:EOLhyphen"/>nifold Insolence, and intended violence against the Par<g ref="char:EOLhyphen"/>liament; and this is exprest by the Lord <hi>Digby,</hi> himselfe, when he told those Cavileers that the principall cause of his Majesties going out of Towne, was to save them from being trampled in the dirt, but of his Majesties Person, there was no cause of feare in the greatest heate of the peoples indignation, after the accusation, and his Maje<g ref="char:EOLhyphen"/>sties violent comming to the House, there was no shew of any evill intention against his Regall Person, of which there can be no better evidence then this, that he came the next day without a guard into the Citie, where he heard nothing but Prayers and Petitions, no threatnings or ir<g ref="char:EOLhyphen"/>reverent
+<pb n="30" facs="tcp:46219:17"/> speeches that might give him any just occasion of feare that We have heard of, or that his Majestie ex<g ref="char:EOLhyphen"/>prest, for he staid neare a weeke after at White-hall in a secure and peaceable condition, whereby we are induced to beleeve that there is no difficultie nor doubt at all, but his Majesties Residence neare London may be as safe, as in any part of the Kingdome. We are most assured of the faithfulnesse of the City and Suburbs, and for our selves, we shall quicken the vigor of the Lawes, the industry of the Magistrate, the authority of Parliament, for the suppressing of all tumultuary insolencies whatsoever; and for the vindicating of his honour, from all insuppor<g ref="char:EOLhyphen"/>table and infolent scandals, if any such shall be found to be raised upon him as are mentioned in this Answer, and therefore We thinke it altogether unnecessary, and ex<g ref="char:EOLhyphen"/>ceeding inconvenient to adjourne the Parliament to any other Place.</p>
+               <p>Where the desire of a good understanding betwixt the King and the Parliament, is on both parts so earnest as is here profest of his Majestie to be in him; And We have sufficiently testified to be in our selves, it seemes strange We should be so long asunder, it can be nothing else but evill and malicious Councell, misrepresenting our carri<g ref="char:EOLhyphen"/>age to him, snd in disposing his favour to us, and as it shall be farre from us to take any advantage of his Ma<g ref="char:EOLhyphen"/>jesties supposed straights, as to desire, much lesse to com<g ref="char:EOLhyphen"/>pell him to that which his honour or interest may render unpleasant and grievous to him; So We hope that his Majestie will not make his owne understanding or reason, the rule of his government, but will suffer himselfe to be assisted with a wise and prudent Councell, that may deale faithfully betwixt him and his people, and that he will re<g ref="char:EOLhyphen"/>member that his resolutions doe concerne a Kingdome:
+<pb n="31" facs="tcp:46219:17"/> And therefore ought not to be moulded by his owne, much lesse by any other private person, which is not a light proportionable to so great a trust, and therefore we still desire and hope that his Majesty will not be guided by his owne understanding, or to thinke those courses, straights, and necessities, to which he shall be advised by the wisedome of both Houses of Parliament; which are the eyes in this Politick Body, whereby his Majestie is by the constitution of this Kingdome, to discerne the diffe<g ref="char:EOLhyphen"/>rences of those things which concerne the Publick Peace and safety there; of We have given his Majestie no cause to say, that We doe meanely value the discharge of his Pub<g ref="char:EOLhyphen"/>lick duty, whatsoever Acts of Grace or Justice have been done, they proceeded from his Majestie by the advice and Councell of his Parliament. Yet we have and shall al<g ref="char:EOLhyphen"/>wayes answer them with constant gratitude, obedience, and affection, and although many things have beene done since this Parliament, of another nature, yet we shall not cease to desire the Contumed protection of Almighty God, upon his Majesty; and most humbly Petition him to cast from him all those evill and contrary Councells, which have in many particulars formerly mentioned, much detracted from the honour of his government, the happinesse of his owne, estate and prosperity of his people.</p>
+               <p>And having past so many dangers from abroad, so many Conspiracies at home, and brought on the publick worke so farre through the greatest difficulties that ever stood in opposition to a Parliament, to such a degree of Successe that nothing seemes to be left in our way able to hinder the full accomplishment of our desires, and in<g ref="char:EOLhyphen"/>deavours for the Publick good, unlesse God in his Iustice doe send such a grievous curse upon us as to turne the
+<pb n="32" facs="tcp:46219:18"/> strength of the Kingdome against it selfe, and to effect that by their owne follie and credulitie, which the power and subtilty of their and our, Enemies could not attaine, that is, to Divide the people from the Parliament, and to make th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m serviceable to the ends and aimes of those who would destroy them, therfore Wee desire the Kingdome to take notice of this last most desperate and mischievous plot of the malignant party, that is acted and prosecuted in many partes of the kingdome under plauseable Notions of stirring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem up to a care of preser<g ref="char:EOLhyphen"/>ving the Kings Prerogative, maintaineing the discipline of the Church, upholding and continuing the Reverence and solemnity of Gods service incouraging of learning, &amp; upon these grounds divers mutinous petitions have been framed in London, Kent, and other Counties, and sundry of his Maiestis subjects have been solicited to declare themselves for the King, against the Parliament and many false and fowle aspertions have been cast upon our proceedings as we had been not onely negligent, but averse in these pointes, whereas we desire nothing more, then to maintaine the purity and power of Religion, and to honor the King in all his Just Prerogatives, and for Incourage<g ref="char:EOLhyphen"/>ment and advancement of Piety and Learning we have very earnestly endeavoured, and shall doe to the uttermost of our power that all Parishes may have learned, pious, and sufficient Preachers, and all such Preachers, competent livings: Many other Bils and propositions are in prepa<g ref="char:EOLhyphen"/>ration for the Kings profit and honour, the peoples safety, and prosperity, in the proceedings whereof We are much hindered by his Majesties absence from the Parliament, which is altogether contrary to the use of his Predeces<g ref="char:EOLhyphen"/>sors, and the Priviledges of Parliament: whereby our time is consumed by a multitude of unnecessary Messages,
+<pb n="33" facs="tcp:46219:18"/> and our Innocency wounded by causlesse and sharpe In<g ref="char:EOLhyphen"/>vectives; yet we doubt not, but we shall overcome all this at last, if the people suffer not themselves to be deluded with false and specious shews, and so drawne to betray us to their owne undoing, who have ever been willing to ha<g ref="char:EOLhyphen"/>zard the undoing of our selves, that they might not be be<g ref="char:EOLhyphen"/>trayed by our neglect of the trust reposed in us: but if it were possible they should prevaile herein, yet we would not faile, through Gods grace, still to persist in our duties, and to looke beyond our owne lives, estates, and advanta<g ref="char:EOLhyphen"/>ges, as those who think nothing worth the enjoying with<g ref="char:EOLhyphen"/>out the <hi>liberty, peace</hi> and <hi>safety</hi> of the Kingdome; nor any thing too good to be hazarded in discharge of our Con<g ref="char:EOLhyphen"/>sciences for the obtaining of it: and shall alwayes repose our selves upon the protection of Almighty God, which We are confident shall never be wanting to us (while We seek his glory) as we have found it hitherto wonderfully, going along with us in all our proceedings.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>IT is His Majesties pleasure that you forthwith Print in very good paper, and send unto me for His Majesties service, forty Copies of the Proclamation inclosed, leaving a convenient space for His Majestie to Signe above, and to fixe the Privie Signet underneath. And His Majesties expresse Command is, that you Print not above the said number of forty Copies, and forbeare to make any further publication of them, till his pleasure be further signyfied, for which this shall be your Warrant.</p>
+                     <closer>
+                        <signed>Edw. Nicholas.</signed>
+                        <dateline>
+                           <hi>White-Hall,</hi>
+                           <date>
+                              <hi>2. January 1641.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>For His Majesties Printer.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <pb facs="tcp:46219:19"/>
+               <pb n="1" facs="tcp:46219:19"/>
+               <head>Divers Depositions and Letters ap<g ref="char:EOLhyphen"/>pertaining to the Remonstrance, agreed upon by the Lords and Commons assembled in Parliament, <hi>Die Jovis,</hi> 19. <hi>Maii</hi> 1642. <hi>The Examination of Colonell</hi> Goring, <hi>taken</hi> June 19. 1641.</head>
+               <p>
+                  <hi>To the first In.</hi> HE saith, That in <hi>Lent</hi> last (as he remembers) about the middle of it, Sir <hi>John Suckling</hi> c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to him on <hi>Sunday</hi> morning as he was in his bed and this Examinate concei<g ref="char:EOLhyphen"/>ving he had come to him about some businesse of money that was betweene them; and thereupon falling upon that discourse, Sir <hi>John Suckling</hi> told him he was then come about another businesse, which was to acquaint him, That there was a purpose of bringing the Ar<g ref="char:EOLhyphen"/>my to London, And that my Lord of New-castle was to be Ge<g ref="char:EOLhyphen"/>nerall and he, this Examinate, Lieutenant Generall, if he would ac<g ref="char:EOLhyphen"/>cept of it. And further said, That he would heare more of this bu<g ref="char:EOLhyphen"/>sinesse at Court: to which this Examinate answered only this, Wel, then I will go to the Court; which was all that passed betweene them at that time, to the best of his Examinates remembrance.</p>
+               <p>
+                  <hi>To the sec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd,</hi> He cannot depose.</p>
+               <p>
+                  <hi>To the third,</hi> He saith, That as he was comming in his Coach in the streete, out of the <hi>Covent-Garden</hi> into S. <hi>Martins Lane,</hi> he met there Mr. <hi>Henry I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmin,</hi> who was likewise in a Coach; and seeing this Examinate, sent his Foot-man to him, desiring him to follow him, because he would speak with him; which this Examinate did: And Mr. <hi>Iermin</hi> going a little further, alighted, and went into a house (to which house, as this Examinate was but yesterday in<g ref="char:EOLhyphen"/>formed, Sir <hi>Iohn Suckling</hi> did then usually resort) and thither this Examinate followed him; and comming after him to the top of the Stayres, Mr. <hi>Iermin</hi> said to him, He had somewhat to say to him concerning the Army, but that this was no fit place to speak of it, and desired him to meet him that evening at the Court, on the Queenes side; which this Examinate accordingly did; and me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<g ref="char:EOLhyphen"/>ing Mr. <hi>Iermin</hi> in the Queenes drawing Chamber, he was there told by him, That the Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een would speak with him and therupon Mr. <hi>Iermin</hi> brought him into the Queens Bed chamber: But before this Examinate could enter into any discourse with the Queen, the
+<pb n="24" facs="tcp:46219:20"/> King came in, and then this Examinate did withdraw, and went away for that time, but returned again the same night, and met Mr. <hi>Iermyn</hi> again on the Queens side, who told him that he must necessarily meet with some Officers of the Army, to heare some Propositions concerning the Army. The next day being Mun<g ref="char:EOLhyphen"/>day, this Examinate came ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in to the Court in the after-noon, and went into the Queens drawing-Chamber, where Her Majesty then was, who was pleased to tell him that the King would speake with him, and bad him repaire to the roome within the Gallery, into which Room the King soon after came; and His Maiesty asked him, if he was engaged in any Cabale concerning the Army: to which he an<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ered, That he was not: whereupon His Majesty replyed, I command you then to joyne your selfe with <hi>Percy,</hi> and some others whom you will finde with him. And his Maiesty likewise said, I have a desire to put my Army in a good posture, and am advised unto it by my Lord of <hi>Bristoll:</hi> which was the ef<g ref="char:EOLhyphen"/>fect of what passed betweene the King and the Examinate at that time. The Examinate meeting afterwards with Mr. <hi>Iermyn,</hi> Mr. <hi>Iermyn</hi> told him that they were to meet at evening at nine of the clocke with Mr. <hi>Percy,</hi> and some others, at Mr. <hi>Percies</hi> Chamber; and accordingly Mr. <hi>Iermyn</hi> and he went thither together, and there found Mr. <hi>Percy</hi> himself, Mr. <hi>VVilmot,</hi> Mr. <hi>Ashburnham,</hi> Mr. <hi>Pollard,</hi> Mr. <hi>Oneale,</hi> and Sir <hi>Iohn Bartley;</hi> Mr. <hi>Percy</hi> then in the first place tendered an Oath to this Examinate and Mr. <hi>Iermyn,</hi> the rest saying they had taken that Oath already: this Oath was prepared in writing, and was to this effect, <hi>That they should neither directly nor indirectly disclose any thing of that which should be then said unto them, nor think themselves absolved from the secrecy enjoyned by this Oath, by any other Oath which should be afterwards taken by them.</hi> They having taken the Oath, Mr. <hi>Percy</hi> declared, That they were resolved not to admit of any body else into their Councells: And Mr. <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmyn</hi> and this Examinate moved that Sir <hi>Iohn Suckling</hi> might be received amongst them; which being opposed by the rest, after some debate, it was laid aside: and some speech there was of Sir <hi>Iohn Suckling</hi> his being imployed in the Army; but how it was agreed upon, this Examinate doth not remember.</p>
+               <p>After this Mr. <hi>Percy</hi> made his Propositions, which he read out of a paper, which were to this effect, That the Army should pre<g ref="char:EOLhyphen"/>sently be put into a posture to serve the King, and then should send up a Declaration to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Parliament, of these particulars, <hi>viz.</hi> That
+<pb n="25" facs="tcp:46219:20"/> nothing should be done in Parliament contrary to any former Act of Parliament, which was explained, That Bishops should bee maintained in their Votes and Functions. And the Kings revenue be established. From these Propositions none of M. <hi>Percies</hi> Com<g ref="char:EOLhyphen"/>pany did declare themselves to dissent. Then came into conside<g ref="char:EOLhyphen"/>ration, if the Army should not immediatly be brought to London, which, as this Examinate remembers, was first propounded by Mr. <hi>Iermin,</hi> and also the making sure of the Tower. These things this Examinate did urge, to shew the vanity and danger of the other Propositions, without undertaking this. In the conclusion, this Examinate did protest against his having any thing to do in ei<g ref="char:EOLhyphen"/>ther design; for the proofe of which, he appeales to the conscien<g ref="char:EOLhyphen"/>ces of them that were present, and so parted with them. About this businesse this Examinate saith, That they had two meetings, and cannot distinguish what passed at the one, and what at the other, but the result of all was as he formerly declared: further then which, he cannot depose.</p>
+               <p>
+                  <hi>To the fourth Int.</hi> He can say no more then he hath already said.</p>
+               <p>
+                  <hi>To the fifth Int.</hi> He saith, That the very day that Sir <hi>Iohn Suck<g ref="char:EOLhyphen"/>ling</hi> first moved this unto him, he gave some touch of it to my Lord <hi>Dungarvan:</hi> and the day after his second meeting at Mr. <hi>Per<g ref="char:EOLhyphen"/>cies</hi> Chamber, he discovered it to the Lord of <hi>Newport,</hi> and desired him to bring him to some other Lords, such as might be likeliest to prevent all mischiefe: and accordingly the next day my Lord of <hi>Newport</hi> brought him to my Lord of <hi>Bedford,</hi> my Lord <hi>Say,</hi> and my Lord <hi>Mandevill,</hi> to whom he imparted the maine of the bu<g ref="char:EOLhyphen"/>sinesse, but not the particulars, in regard of his Oath; and desired them to make use of it as they should see cause, for the safety of the Common wealth, but not to produce him, nor name any person, except there were a necessity for it. He further saith, That he did at the same time make a Protestation unto those Lords of his fi<g ref="char:EOLhyphen"/>delity unto the Common-wealth, and of his readinesse to run all hazards for it.</p>
+               <closer>
+                  <signed>George Goring.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:46219:21"/>
+               <head>Master <hi>Percies</hi> Letter written to the Earle of <hi>Northumberland,</hi> June 14. 1641.</head>
+               <p>WHat with my own innocency and the violence I heare is against me, I finde my self much distracted, I will not ask your councell because it m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y bring preiudice upon you; but I will with all faithfulnesse and truth tell you what my part hath beene, that at least I may be cleared by you whatsoever becomes of me.</p>
+               <p>When there was 50000. pound designed by the Parliament for the English army, there was as I take it a sudden demand made by the Scots at the same time of 25000. pound, of which there was but 15000. pound ready, this they pressed with so much ne<g ref="char:EOLhyphen"/>cessity as the Parliament after an Order made, did think it fit for them to deduct 10000. li. out of the 50. formerly granted, upon which the souldiers in our house were more scandalized, amongst which I was one, and sitting by <hi>Wilmott</hi> and <hi>Ashburnham, Wilmott</hi> stood up and told them, if such papers as that of the Scots would procure monies, he doubted not but the Officers of the English Army might easily do the like, but the first order was reversed not<g ref="char:EOLhyphen"/>withstanding, and the 10000. pound given to the Scots; this was the cause of many discourses of dislike amongst us, and came to this purpose, that they were disobliged by the Parliament; and not by the King, this being said often one to another, we did re<g ref="char:EOLhyphen"/>solve, that is, <hi>VVilmott, Ashburnham, Pollard, Oneale,</hi> and my selfe to make some expression of serving the King in all things hee would command us, that were honourable for him and us, being likewise agreeable to the fundamentall laws of the kingdome, that so far we should live and die with him. This was agreed upon by us, not having any communication with others, that I am coupled now withall; and further, by their ioynt consent I was to tell his Maiesty thus much from them; but withall I was to order the matter so, as that the King might apprehend this as a great service done unto him, at this time when his affaires were in so ill a con<g ref="char:EOLhyphen"/>dition, and they were most confident that they could ingage the whole Army thus far, but further they would undertake nothing, because they would neither infringe the liberties of the Subiect, or destroy the Laws, to which I and every one consented; and ha<g ref="char:EOLhyphen"/>ving their sence, I drew the Heads up in a paper, to which they all approved when I read it, and then we did by an oath promise to one another to be constant and secret in all this, and did all of us
+<pb n="29" facs="tcp:46219:21"/> take that oath together. Well Sirs, I must now be informed what your particular desires are, that so I may be the better able to serve you, which they were pleased to do, and I did very faithfully serve them therein, as far as I could: this is the truth and all the truth up<g ref="char:EOLhyphen"/>on my soul. In particular discourses after that, we did fall upon the petitioning the King and Parliament for money, there being so great arreares due to us, and so much delayes made in the procu<g ref="char:EOLhyphen"/>ring of them, but that was never done.</p>
+               <p>The preserving of Bishops functions and votes.</p>
+               <p>The not disbanding of the Irish Army, untill the Scots were disbanded too.</p>
+               <p>The indeavouring to settle his revenue to that proportion it was formerly, and it was resolved by us all, if the King should re<g ref="char:EOLhyphen"/>quire our assistance in these things, that as far as we could, wee might contribute thereunto without breaking the Lawes of the Kingdome, and in case the King should deny these things being put to them, we would not flie from him.</p>
+               <p>All these persons did act and concur in this as well as I. This being all imparted to the King by me from them, I perceived he had beene treated with by others concerning something of our Army, which did not agree with what we proposed, but enclined a way more high and sharp, not having limits either of Honour or Law, I told the King he might be pleased to consider with himself, which way it was fit for him to hearken unto. For us, we were re<g ref="char:EOLhyphen"/>solved not to depart from our grounds, and if he imployed others we should not be displeased whosoever they were: but the parti<g ref="char:EOLhyphen"/>culars of their designe, or the persons, we desired not to know, though it was no hard matter to guesse at them; in the end I be<g ref="char:EOLhyphen"/>leeve the dangers of the one, and the iustice of the other, made the King tell me he would leave all thoughts of other propositions but ours, as things not practicable, but desired notwithstanding that <hi>Goring</hi> and <hi>Iermin,</hi> who were acquainted with the other pro<g ref="char:EOLhyphen"/>ceedings, should be admitted amongst us: I told him, I thought the other Gentlemen would never consent to it, but I would propose it; which I did, and we were all much against it; but the King did presse it so much, as at the last, it was consented unto, and <hi>Goring</hi> and <hi>Iermin</hi> came to my chamber, there I was appointed to tell them, after they had sworn to secrecy, what we had proposed, which I did: but before I go on to the debate of the wayes, I must tell you, Mr. <hi>Iermin</hi> and <hi>Goring</hi> were very earnest <hi>Suckling</hi> should
+<pb n="28" facs="tcp:46219:22"/> be admitted, which we did all decline; and I was desired by all our men to be resolute in it, which I was, and gave many reasons; whereupon I remember M. <hi>Goring</hi> made answer, he was so inga<g ref="char:EOLhyphen"/>ged with <hi>Suckling,</hi> he could not go or do any thing without him. Yet in the end, so that we would not oppose <hi>Suckling</hi> his being im<g ref="char:EOLhyphen"/>ployed in the Army, that for his meeting with us they were con<g ref="char:EOLhyphen"/>tented to passe it by. Then we took up again, the wayes were pro<g ref="char:EOLhyphen"/>posed, which took a great debate, and theirs (I will say) differed from ours in violence, and height, which we all protested against and parted, disagreeing totally; yet remitting it to be spoken of by me, and <hi>Iermin,</hi> to the King, which we both did. And the King constant to his former resolution told him, that all those wayes were vain and foolish, and would think of them no more. I omit<g ref="char:EOLhyphen"/>ted one thing of M. <hi>Goring,</hi> he desired to know, how the chief com<g ref="char:EOLhyphen"/>manders were to be disposed of, for if he had not a condition wor<g ref="char:EOLhyphen"/>thy of him, he would not go along with us, we made answer that no body had thought of that, we intending if we were sent down, to go all in the same capacity we were in, he did not like that by no means, and upon that did work so by M. <hi>Chidley,</hi> that there was a Letter sent by some of the Commanders to make him Lieutenant Generall: and when he had ordered this matter at London, &amp; Mr. <hi>Chidley</hi> had his instructions, then did hee goe to Portsmouth pre<g ref="char:EOLhyphen"/>tending to be absent when this was a working: we all desired my L. of Essex or my L. of Holland, &amp; they (if there were a Generall) Newcastle, They were pleased to give out a report I should be ge<g ref="char:EOLhyphen"/>nerall of the Horse; but I protest, neither to the King or any else did I ever so much as think of it: my L. of Holland was made ge<g ref="char:EOLhyphen"/>nerall and so all things were laid aside: &amp; this is the truth, and all t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e truth I know of all these proceedings; and this I do and will protest upon my faith; and <hi>Wilmott, Ashburnham,</hi> and <hi>Oneale,</hi> have at severall times confessed &amp; sworne, I never said any thing in this business, they did not every one agree unto, &amp; would justifie. This relation I send you, rather to inform you of the truth of the matter, that you may know the better how to do me good: But I should think my self very unhappy to be made a betrayer of any body; what concerned the Tower or any thing else I never medled with<g ref="char:EOLhyphen"/>all, nor never spake with <hi>Goring,</hi> but that night before them all; and I said nothing but what was consented unto by all my party. I ne<g ref="char:EOLhyphen"/>ver spoke one word to <hi>Suckling, Carnarvan, Davenant,</hi> or other creature me thinks of my friends &amp; kindred knew the truth &amp; iu<g ref="char:EOLhyphen"/>stice of this matter, it were no hard matter to serve me in some measure.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:46219:22"/>
+               <head>
+                  <hi>Die Martis</hi> 10. <hi>Maii,</hi> 1640. The Examination of Captain <hi>James Chudleigh.</hi>
+               </head>
+               <div type="section">
+                  <head>To the first In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erogatory, and to the second;</head>
+                  <p>THis Deponent saith, that about March and Aprill last, he was at Burrowbrig, where divers Officers and Commanders of the Army met, to whom he used some speeches concerning the Parliament, that hee saw no probability that the Army would be suddenly paid by the Parliament, because they had promised so much to the King, and to the Scots, as well as to the Army; but that the King did commiserate their case, and said, That if they would be faithfull to him, he would pawne his Jewels rathet than they should be unpaid; and saith further, that he knows of such a Letter sent by the Army to my Lord of Northumberland, to be shewed to the Parliament; and that he told them at that mee<g ref="char:EOLhyphen"/>ting that the Parliament was much displeased with that Letter, and that those who had subscribed it should be sent for up particularly, that my Lord of Essex, and my Lord of Newport had expressed much dislike of that Letter, and of them who had sent it, and said that they had forfeited their necks: which he had from Sir <hi>Iohn Suckling,</hi> Mr. <hi>Davenant,</hi> and (as he conceives) from Sergeant Ma<g ref="char:EOLhyphen"/>ior <hi>VVillis,</hi> and this he declared to those Officers, as giving them an account of his iourney, and the service in which they had im<g ref="char:EOLhyphen"/>ployed him.</p>
+               </div>
+               <div type="section">
+                  <head>To the third Interogatory;</head>
+                  <p>He saith he hath answered before.</p>
+               </div>
+               <div type="section">
+                  <head>To the fourth Interogatory;</head>
+                  <p>That Sergeant maior <hi>VVillis</hi> told him upon the way, as they were in their iourney down into the North, that Colonell <hi>Goring</hi> was a brave gentleman, and fit to command the Army, and that the King had a good inclination to him, that he should be Lieutenant Gene<g ref="char:EOLhyphen"/>rall, and saith further, that before he came out of London, Sir <hi>Iohn Suckling</hi> had likewise highly commended him, and said he was fit<g ref="char:EOLhyphen"/>ter to command in chief, then any man he knew, and that the Ar<g ref="char:EOLhyphen"/>my was not now considerable, being without a head, and indeed was but a party (Colonell <hi>Goring</hi> being away) who commanded a Brigado, and that they did undiscreetly to shew theit teeth, except they could bite, which the said Sir <hi>Iohn Suckling</hi> wished him to de<g ref="char:EOLhyphen"/>clare unto the Army, saying, He could not doe a better service to the Officers who had imployed him, then to let them know it, whereupon he did acquaint them with it accordingly.</p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:46219:23"/>
+                  <head>To the fifth Interogatory;</head>
+                  <p>That Sir <hi>John Suckling</hi> brought him into some roome of the Queenes side at White Hall, where Master <hi>Jermin,</hi> and he had pri<g ref="char:EOLhyphen"/>vate conference together, and oftentimes looked towards this Deponent: Sir <hi>John Suckling</hi> afterwards told him, that the King would be well pleased, if the Army would receive Colonell <hi>Goring</hi> to be their Lieutenant generall, and said that Mr. <hi>Henry Jermyn</hi> said so.</p>
+               </div>
+               <div type="section">
+                  <head>To the sixth Interogatory;</head>
+                  <p>That Master Davenant told him, that things were not here as they were apprehended in the Army, for that the Parliament was so well effected to the Scots, as that there was no likelihood the Army should have satisfaction so soone as they expected it.</p>
+               </div>
+               <div type="section">
+                  <head>To the seventh Interogatory;</head>
+                  <p>That when he brought the Letter from the Army, he met with Master <hi>Davenant,</hi> who told him it was a matter of greater conse<g ref="char:EOLhyphen"/>quence than he imagined, and thereupon brought him to Master <hi>Henry Iermyn,</hi> and Master <hi>Germyn</hi> told him he heard he brought such a Letter, and asked to see a Copy of it, which this Deponent did show unto him, and Master <hi>Iermyn</hi> asked if he might not shew it to the Queene, and offered to bring this Deponent to her, which he excused himselfe of, lest he should have anticipated my Lord Generall from shewing the Letter first himselfe.</p>
+               </div>
+               <div type="section">
+                  <head>The eighth Interogatory;</head>
+                  <p>That after he had brought up that Letter, he staid some 8. or 9. dayes in London, before he returned downe to the Army.</p>
+               </div>
+               <div type="section">
+                  <head>To the ninth Interogatory;</head>
+                  <p>That Sergeant Major <hi>Willis</hi> told him most of the noble Gentle<g ref="char:EOLhyphen"/>men in England would shew themselves for the Army: and that the French that were about London would receive Commanders from them, to ioyne with them: And besides, that there would a thousand horse likewise be raised to come to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir assistance, which horse at last he confessed were to be found by the Clergy.</p>
+               </div>
+               <div type="section">
+                  <head>To the tenth Interogatory;</head>
+                  <p>That Sergeant Maior <hi>VVillis</hi> said moreover, that the Army would be very well kept together, for that the Prince was to be brought thither, which would confirme their affe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tions: which this Deponent did declare at Burrowbrig unto the Officers: and doth beleeve <hi>VVillis</hi> did the like; and <hi>VVillis</hi> told them also, that if my Lord of Newcastle was their Generall, he would feast them in Nottinghamshire, and would not use them roughly, but that they should be governed by a Councell of warre.</p>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:46219:23"/>
+                  <head>To the eleventh Jnter.</head>
+                  <p>That both Serjeant Major <hi>Willis</hi> and this Deponent, did perswade the Officers at that meeting, to write a Letter to Colonell <hi>Goring,</hi> which was to let him know, that they would heartily embrace him to bee their Lieutenant Generall, if it was his Majesties pleasure to send him downe, which letter was subscribed by Colonell <hi>Fielding</hi> and Colonell <hi>Vavasour,</hi> and divers others; and was by him brought to London upon Monday, where not finding Colonell <hi>Goring,</hi> hee delivered it to Sir <hi>Iohn Sucklin,</hi> who carried it to the King, and afterwards brought him to kisse the King and Queenes hand, and within a day or two returned the Letter to him againe, which Letter this Deponent the Saturday after carried downe himselfe to Colonell <hi>Goring</hi> to Portsmouth.</p>
+               </div>
+               <div type="section">
+                  <head>To the <hi>12.</hi> Inter.</head>
+                  <p>That there was likewise a Letter written to Mr. <hi>Endimion Porter,</hi> assign<g ref="char:EOLhyphen"/>ed by Colonel <hi>William Vavasour</hi> and Colonell <hi>Fielding,</hi> which was to this effect, to desire him to inform his Majesty, that the Army was very faith<g ref="char:EOLhyphen"/>full to him, and no doubt need be made by his Majesty concerning their proceedings. This Letter Sir <hi>Iohn Sucklin</hi> would not have to be delivered, but took it himself, for that he said Mr. <hi>Porter</hi> knew nothing of the Kings intentions.</p>
+               </div>
+               <div type="section">
+                  <head>To the <hi>14.</hi> Inter.</head>
+                  <p>That when he came to Portsmouth, Colonell <hi>Goring</hi> shewed him the strength of that place, and told him, that if there should be any mutiny in London, the Queene meant to come downe thither for her safety, and that she had sent him downe money to fortifie it.</p>
+               </div>
+               <div type="section">
+                  <head>To the <hi>15.</hi> Inter.</head>
+                  <p>That what he learned from Serjeant Major <hi>Willis,</hi> he got from him by degrees, as he urged it from him by way of discourse; and that <hi>Willis,</hi> Sir <hi>Iohn Sucklin,</hi> and Mr. <hi>Davenant,</hi> did all of them give him great charge to keepe things secret, and to be very carefull to whom he communicated any thing, which he accordingly observed; for hee dealt with the Offi<g ref="char:EOLhyphen"/>cers there severally.</p>
+                  <closer>
+                     <signed>Iames Chudleigh.</signed>
+                  </closer>
+                  <postscript>
+                     <p>This Examination was taken in the presence of us,</p>
+                     <closer>
+                        <signed>Essex. P. Howard. Warwick. W. Howard.</signed>
+                     </closer>
+                  </postscript>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Die Martis</hi> 18. <hi>Maii.</hi> The second Examination of Cap. <hi>Chudleigh.</hi>
+               </head>
+               <div type="section">
+                  <head>To the <hi>31.</hi>
+                  </head>
+                  <p>THat at the meeting at Burrowbrig, hee declared unto the Officers something out of a paper, which he read, and told them that he had
+<pb n="34" facs="tcp:46219:24"/> received it from Mr. <hi>Iermin,</hi> and that Mr. <hi>Jermin</hi> had received it from the King. And he said likewise, that some others about the King were acquainted with it, and named Mr. Endimion Porter, to whom hee thought the King had declared in this businesse.</p>
+               </div>
+               <div type="section">
+                  <head>To the <hi>34.</hi>
+                  </head>
+                  <p>That Mr. <hi>Iermin</hi> asked him, if hee thought the Army would sticke to their Officers, in case the King and Parliament should not agree, or words to that effect.</p>
+                  <p>He saith further, that he had set downe all those things in writing, which he declared to the Officers at Burrowbrig, and thought to have sent it downe to them, but upon better consideration he went himselfe, and read it to them out of the paper, but severally, and not to them alto<g ref="char:EOLhyphen"/>gether. And particularly, that he read it to Lieutenant Colonell <hi>Ballard,</hi> &amp; to Lieutenant Col. <hi>Lunsford,</hi> that he did not acquaint them all with it, and the reason why he did not, was because he conceived some were of more judgement then others, and fitter to be trusted with matters of se<g ref="char:EOLhyphen"/>crecy.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Iames Chudley.</hi>
+                           </item>
+                           <item>
+                              <hi>Essex. Warwick, Wil. Say and Seale, Howard.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>Thomas Ballard,</hi> Lieutenant Colonell to the Lord <hi>Grandison,</hi> taken May <hi>18. 1641.</hi>
+               </head>
+               <div type="section">
+                  <head>To the <hi>10.</hi>
+                  </head>
+                  <p>THat he did meet at Borrowbridge, being sent to by Captaine <hi>Chid<g ref="char:EOLhyphen"/>ley</hi> and none other, but he found there Sergeant Major <hi>Willis,</hi> and divers other Officers of the army; this was sometime in Aprill last, as he remembreth.</p>
+               </div>
+               <div type="section">
+                  <head>To the <hi>29.</hi>
+                  </head>
+                  <p>That Mr. <hi>Chidley</hi> did propound to him certaine propositions, which as he affirmed, he did receive from Mr. <hi>Henry Iermin,</hi> and from another great man which he might not name. Captaine <hi>Chidley</hi> further said, that Mr. <hi>Jermin</hi> told him that he received those propositions from the King: But <hi>Chidley</hi> told him further, that when he kissed the Kings hand, his Majesty said nothing to him of any such propositions. The first proposition was, that he should not acquaint either Sir <hi>Iacob Ashley,</hi> or Sir <hi>John Conyers</hi> with any thing of this design. The second, that if there were occasion, the Army should remove their quarters into Nottinghamshire, where the Prince and the Earle of New-Castle should meet them with a thousand horse, and all the French that were in London should be mounted, and
+<pb n="35" facs="tcp:46219:24"/> likewise meete them. These propositions were read by Captaine <hi>Chidley</hi> out of a paper, which he said he had written himself, thinking to have sent them downe; but upon better consideration he brought them downe himselfe. That they likewise should desire that Colonell <hi>Goring</hi> should be the Lieutenant Generall to the Army: There was likewise of<g ref="char:EOLhyphen"/>fered a paper to this effect, as he was then told, That if the King would send Colonell <hi>Goring</hi> to bee Lieutenant Generall, they would accept of him; which paper he, this examinant, refused to read, or to set his hand to it, but heard that divers others signed it. He further saith, that there was no other paper propounded to him to be signed, nor to any other to his knowledge. He further saith, that this was not delivered to the Officers in publicke, but severally.</p>
+                  <p>He likewise saith, that presently after Colonell <hi>Vavasour</hi> said publick<g ref="char:EOLhyphen"/>ly, that he never consented to these propositions in his heart, and desired that there might be a meeting immediately, whereupon they agreed up<g ref="char:EOLhyphen"/>on a meeting at Yorke the Wednesday following, at which meeting they generally concluded, not to interesse themselves in any of those designes that had beene propounded to them by Captaine <hi>Chidley,</hi> and they presently writ by the Post to Captaine <hi>Chidley</hi> to London, that if he had not delivered the paper, he should forbeare to deliver it.</p>
+                  <closer>
+                     <signed>Thomas Ballard.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Examination of Captaine <hi>Leg,</hi> taken <hi>May</hi> the <hi>18. 1641.</hi>
+               </head>
+               <div type="section">
+                  <head>To the <hi>19.</hi> Inter.</head>
+                  <p>HE saith, That he heard of a meeting at Borrowbridge, but was not there present, but was present at another meeting at Yorke not long after, where he was told that the King was not well satisfied with the affections of the Officers to his service; and therefore it was thought fit to make a Declaration of their readinesse to serve his Majesty; which Declaration was acccordingly drawne, but not finding any great cause for it, it was after torne. He further saith, That the night before the mee<g ref="char:EOLhyphen"/>ting at Burrowbridge, he spoke with Captaine <hi>Chidley</hi> at Yorke, who perswaded him to goe to Burrowbridge, where he had propositions to impart to the army; but this Examinate refusing to goe, he would not acquaint him with them at that time; but told them that divers Lords and Officers of the Army were fallen off from the King, naming the Earle of Essex, the Earle of Newport, Commissary <hi>Wilmot,</hi> Colonell <hi>Ashburnham,</hi> and others which this Examinate so much disliked, that they forbore any further discourse.</p>
+                  <closer>
+                     <signed>Wil. Leg.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="36" facs="tcp:46219:25"/>
+               <head>The Examination of Colonell <hi>Vavasour,</hi> taken <hi>29.</hi> of May <hi>1641.</hi>
+               </head>
+               <p>THat at the meeting at Borrowbridge, Serjeant Major <hi>Willis,</hi> and Captaine <hi>Chidley,</hi> or one of them, told the Officers there, that the Parliament had taken great offence at the letter which they had written up to my Lord of Northumberland, and that those who had subscribed it, should be questioned, and that there was small hopes of money from the Parliament for the present.</p>
+               <p>That the King would take it very well, if he might receive assurance from them, that they would except of Colonell <hi>Goring</hi> for their Lieute<g ref="char:EOLhyphen"/>nant Generall, and wished that the Army were united.</p>
+               <p>When the King had this assurance from them, there should come a Generall that would bring them money, this they said they had good Commission to deliver unto them, having received it from Master <hi>Henry Iermin,</hi> and Sir <hi>Iohn Suckling,</hi> hee likewise saith Captaine <hi>Chidley</hi> spake it with more confidence, and Serjeant Major <hi>Willis</hi> rather as having heard it from others: he further saith, there was a Letter written to Colonell <hi>Goring,</hi> for to let him know if the King would send him downe with a Commission to be Lieutenant Generall, they would wil<g ref="char:EOLhyphen"/>lingly receive him, and this Letter was proposed unto them by Captaine <hi>Chidley</hi> and Ser. Major <hi>Willis.</hi> There was another Letter written to Mr. <hi>Endimion Porter,</hi> which as hee remembers was to let him know, that though the Army was now commanded by Sir <hi>Iacob Ashley,</hi> yet if that it were his Majesties pleasure to appoint Colonell <hi>Goring</hi> to be Lieutenant Generall, they were confident the Army would receive him the better, being onely subscribed by Colonell <hi>Fielding</hi> and himselfe. And further saith that he hears this Letter was never delivered, for that Sir <hi>Iohn Suck<g ref="char:EOLhyphen"/>lin</hi> told Mr. <hi>Chidley</hi> that Mr. <hi>Porter</hi> was a stranger to the businesse.</p>
+               <closer>
+                  <signed>Colonell <hi>Vavasor.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>This Examination taken afore us,</p>
+                  <closer>
+                     <signed>Mandevile. Howard. Ph. Wharton.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <opener>
+                  <signed>Charles R.</signed>
+               </opener>
+               <p>COlonell <hi>Goring,</hi> these are to command you to provide with all speed a ship for this Bearer to carry him to Diep or Calais, or any other Port of France, that the winde may be good for, and if there be any of my Ships or Pinnaces rea<g ref="char:EOLhyphen"/>dy to goe forth, you shall command the Captaine or Master of such Ship or Pin<g ref="char:EOLhyphen"/>nace to receive him and his servants, and carry him into France, for which this shall be a warrant to the Captaine or Master you may imploy, and hereof you
+<pb n="37" facs="tcp:46219:25"/> nor they are not to faile as you or they will answer the contrary at your perils.</p>
+               <closer>
+                  <dateline>Given at White-Hall <date>this <hi>14</hi> of May, <hi>1641.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>To our trusty and wel-beloved Servant</hi> George Goring <hi>Governour of Portsmouth.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of Captaine <hi>William Legg,</hi> taken upon Oath before the Lords Committees upon Saturday the <hi>30.</hi> of <hi>October, 1641.</hi>
+               </head>
+               <div type="section">
+                  <head>To the first Interg.</head>
+                  <p>SAith, that he doth know Master <hi>Daniel Oneale</hi> who was Serjeant Major to Sir <hi>Iohn Conniers,</hi> doth not certainely remember the precise time going from the Army to London, nor of his return backe, but be<g ref="char:EOLhyphen"/>leeves he returned about <hi>Iune</hi> and <hi>Iuly.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To the ninth.</head>
+                  <p>That hee was at Yorke when the said Master <hi>Oneale</hi> returned thither from London, and can say no more to this ninth Interg.</p>
+               </div>
+               <div type="section">
+                  <head>To the tenth.</head>
+                  <p>That there was a Petition prepared to be delivered to the Parliament from the Army, which consisted of many particulars, as to shew how much they suffered for want of Martiall Law, and for want of pay, and because their principall Officers were not among them, and they did likewise set forth in it, That as the wisedome of the King did cooperate with the Parliament, So they did hope the Parliament would doe some<g ref="char:EOLhyphen"/>thing concerning the Kings Revenu; but saith he doth not remember what the particular was whch was desired, and further that they heard of great tumults about London, and therefore offered themselves to serve the King and Parliament, with the last drop of their bloods. He saith that this Pe<g ref="char:EOLhyphen"/>tition was approved of by all the Officers that saw it, but was laid aside till further consideration should be had of the manner of the delivery. That himselfe was afterward sent for to London by order of the house of Commons, and was examined, and after his examination, when he saw there was no further use to be made of that Petition he burnt it.</p>
+                  <p>He farther saith, that he staid in this Town some five or six dayes, and was with the King, and had some speech with his Majesty about a Pe<g ref="char:EOLhyphen"/>tition to come from the Army, and gave him an accompt of the Petition that was formerly burnt, and there hee received another Petition to the same effect with the other, but handsomlier written, upon which there was a direction indorsed to this purpose, This Petition will not offend, yet let it not be shewne to any but Sir <hi>Iacob Ashley.</hi>
+                  </p>
+                  <pb n="38" facs="tcp:46219:26"/>
+                  <p>He farther saith, there was no name to this direction, but onely two Letters, but what those Letters were, he will not say, nor cannot swear who writ those two Letters, because he did not see them written.</p>
+                  <p>He saith he did deliver the same paper with the directions to Sir <hi>Iacob Ashley,</hi> and told him withall, here is a paper with a direction, you know the hand, keepe it secret, I have shewed it to no body, if there bee no oc<g ref="char:EOLhyphen"/>casion to use it, you may burne it, and saith he spake no more of it to him, till after my Lord of Hollands comming downe to be Generall, and then hee spake to him to burne it.</p>
+                  <closer>
+                     <signed>William Legg.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Examination of Sir <hi>Iacob Ashley</hi> taken before the Lords Commit<g ref="char:EOLhyphen"/>tees this 29. of October, 1641.</head>
+               <div type="section">
+                  <head>To the first Inter.</head>
+                  <p>HE saith that he hath knowne Serjeant Major <hi>Daniel Oneale</hi> very long, and that he was long absent from the Army the last Summer, but knowes not at what time he did returne, nor knowes not how long it was that he stayed in the Army before his going into the Low Countries, but thinkes it to bee about three weeks.</p>
+               </div>
+               <div type="section">
+                  <head>To the second.</head>
+                  <p>He saith that Mr. <hi>Oneale</hi> told him after his comming downe last, that things being not so well betwixt the King and Parliament, he thought a Petition from the Army might doe very much good, and asked him if a draught of such a Pe<g ref="char:EOLhyphen"/>tition were brought unto him, whether he would set his hand unto it, the particu<g ref="char:EOLhyphen"/>lars which be desired to have the Army received in, were the want of Martiall Law, want of pay, and for words spoken in the House of Parliament against the Army, as that the City was disaffected to the Kings Army, and would rather pay the Scots then them.</p>
+               </div>
+               <div type="section">
+                  <head>To the third Inter.</head>
+                  <p>He cannot answer.</p>
+               </div>
+               <div type="section">
+                  <head>To the fourth inter.</head>
+                  <p>He cannot answer.</p>
+               </div>
+               <div type="section">
+                  <head>To the fifth Inter.</head>
+                  <p>He saith that he received a Letter by the hands of Captaine <hi>Legg,</hi> the tenour whereof as far as he remembers was to this effect, the Letter being written in two sides of paper and somewhat more, first that divers things were pressed by parties to infuse into the Parliament things to the Kings disadvantage, and that divers tumults and disorders were neare the Parliament to the disservice of the King, divers other particulars were contained in this Letter, and in the close of this Let<g ref="char:EOLhyphen"/>ter it was recommended to this Examinate, that he should get the hands of the of<g ref="char:EOLhyphen"/>ficers of the Army to such a Declaration to be sent to the Parliament, and that this would be acceptable to the King. He further saith, hee knowes not of whose
+<pb n="39" facs="tcp:46219:26"/> hand writing it was, nor who delivered it to Captaine <hi>Legg.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To the seventh Interg.</head>
+                  <p>He saith that Mr. <hi>Oneale</hi> telling him of the dislikes which were between the King and the Parliament, and of those things which were done to the disad<g ref="char:EOLhyphen"/>vantage of the King, they must fight with the Scots first, and beat them, before they could move Southward; and that done, they must spoyle the Country all along as they goe, and when they doe come to London, they would finde resistance by the Parliament, and the Scots might rallie and follow them: to which <hi>Oneale</hi> replyed, what if these Scots could be made neutrall? This Examinate then said, that the Scots would lay him by the heeles, if he should come to move such a thing, for that they would never breake with the Parliament. Presently replyed, I wondred that Counsels should be so laid as had beene spoken of, of the marching of the Army to the South.</p>
+               </div>
+               <div type="section">
+                  <head>8. Inter. D.</head>
+                  <p>He further sayes, that there was at the end of the Letter a direction to this ef<g ref="char:EOLhyphen"/>fect: Captaine or <hi>William Legg,</hi> I command you that you shew this Letter to none but <hi>Iacob Ashley:</hi> above this direction were set these two Letters, <hi>C. R.</hi>
+                  </p>
+                  <closer>
+                     <signed>Iacob Ashley.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Examination of Sir <hi>Iohn Coniers,</hi> taken upon oath before the Lords Committees upon Friday the 29. of <hi>October</hi> 1641.</head>
+               <p>
+                  <hi>TO the fi st Interog.</hi> Hee saith, that he knowes very well Mr. <hi>Daniel O Neale,</hi> who was Serjeant Major to his Regiment, that the said <hi>O. Neale</hi> came up to London about November last, and returned to the Army about Midsummer.</p>
+               <p>
+                  <hi>To the second.</hi> That <hi>O Neale,</hi> after his returne to the Army in Summer, spake twice unto this Examinant of a Petition to be sent from the Army to the Parliament, and told him, that because they did not know if himselfe would consent unto it, they would first petiti<g ref="char:EOLhyphen"/>on him, that he would approve of it, but that as yet there were but few hands to that Pe<g ref="char:EOLhyphen"/>tition, which was to be preferred to him; and therefore would not shew it him.</p>
+               <p>
+                  <hi>To the fourth.</hi> That the said <hi>O Neale</hi> used perswasions to this Examinant, that he would serve the King, that if he did not, he should be left alone, and would but ruine himselfe, for that all the Troops under him were that way inclined: That therefore hee should ad<g ref="char:EOLhyphen"/>here to the King, and goe those wayes that the King would have him, or words to that effect.</p>
+               <p>
+                  <hi>To the fifth,</hi> That he saw a paper containing some directions for a Declaration to bee subscribed unto by the Officers of the Army: which paper was in Sir <hi>Iacob Ashley's</hi> hand; he saith it was long, containing two sides of a sheet of paper, or thereabout: the effect whereof was something concerning Martiall Law, and better payment for the Army, toge<g ref="char:EOLhyphen"/>ther with some other particulars; that it was to bee directed to the Parliament, and that there were two letters, <hi>viz.</hi> C. R. at the end. That he doth not know who brought it un<g ref="char:EOLhyphen"/>to Sir <hi>Iacob Ashley,</hi> but that both of them were very much troubled at it. He saith further, that there was a direction at the end of the writing, that no body should see it but Sir <hi>Iacob Ashley;</hi> and the two letters, C. R. were, as he remembred, to that direction, but whe<g ref="char:EOLhyphen"/>ther
+<pb n="40" facs="tcp:46219:27"/> bef<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e or after that direction, he cannot affirme.</p>
+               <p>
+                  <hi>To the seventh,</hi> That he never heard Mr. <hi>O Neale</hi> himselfe speake of his going to New-castle, but that he heard it from others, and as he takes it, from his wife the Lady <hi>Coniers,</hi> and that whosoever it was that told him so, told him withall, that <hi>O-Neale</hi> himself said so.</p>
+               <closer>
+                  <signed>Io. Coniers.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The second Examination of Sir <hi>Iohn Coniers,</hi> taken before the Lords Committees upon Saturday the 30. of October.</head>
+               <p>
+                  <hi>TO the fourth Inter.</hi> That Mr. <hi>O Neale</hi> said to him, that if hee this Examinant had been well knowne to the King, the King would have written to him, and therefore hee conceived this Examinant should doe well to write unto the King; to which hee replied, That he could not serve the King in that point, and therefore he thought i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would be of no use to trouble the King with his Letters.</p>
+               <p>
+                  <hi>To the fifth,</hi> That the paper mentioned in his former examination, to have been seen by him in Sir <hi>Iacob Ashley's</hi> hand, contained directions for a Petition to bee presented to the King and Parliament: in which was a clause to this effect, That whereas all men ought to give God thankes, for putting it into the Kings heart, to condiscend to the desires of the Parliament, not onely to deliver up unto them many of his servants, and others who were neere unto him, to be at their disposing, but also to doe many things which none of his Ancestors would have consented unto, as giving way to the Triennuall Parliament, and granting many other things for the good of his subjects, yet notwithstanding some turbulent spirits, backt by rude and tumultuous mechanicke persons, seemed not to be sa<g ref="char:EOLhyphen"/>tisfied, but would have the totall subversion of the government of the State, that therefore the Army which was so orderly governed, notwithstanding they had no Martiall Law, &amp; il payment, and but few Officers, being of so good comportment, might be called up to at<g ref="char:EOLhyphen"/>tend the person of the King and Parliament for their security. This Examinant further saith, that there were many other passages in this Petition, which he doth not now remem<g ref="char:EOLhyphen"/>ber, onely that there was some expression of a desire, that both Armies should bee disban<g ref="char:EOLhyphen"/>ded for the case of the Kingdome, and likewise a direction to procure as many of the Of<g ref="char:EOLhyphen"/>ficers hands a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could bee gotten.</p>
+               <p>
+                  <hi>To the seventh,</hi> That he remembers well it was not his wife, but Si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Iacob Ashley,</hi> that said to him those words, <hi>O Neal</hi> goes, or else <hi>O-Neal</hi> saith hee will goe to New-castle; but which of the sayings it was he doth not well remember: but saith hee replied to it, that <hi>O-Neal</hi> said nothing to him of that.</p>
+               <p>This Examinant further saith, that hee took occasion upon these passages from <hi>O-Neal,</hi> to command him and Sir <hi>Iohn Bartles,</hi> and all the other Officers, to repaire to their Quar<g ref="char:EOLhyphen"/>ters, to bee ready to perfect their accounts with the Countrey against the time they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould be called for.</p>
+               <closer>
+                  <signed>Io. Coniers.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:46219:27"/>
+               <head>The Examination of Sir <hi>Faulke Huncks,</hi> taken before the Lords Commit<g ref="char:EOLhyphen"/>tees upon Friday, Octob. <hi>29. 1641.</hi>
+               </head>
+               <p>
+                  <hi>TO the first Interrog.</hi> he saith, that he doth well know Master <hi>Daniel O-Neale,</hi> who was Serjeant Major to Sir <hi>Iohn Coniers;</hi> That hee went from the Army to London about the time that the King came out of the North to the Parliament; and that he returned againe to the Army, about that time when Commissary <hi>Wilmot</hi> and the other Souldiers were committed by the Parliament.</p>
+               <p>
+                  <hi>To the second.</hi> That the said <hi>O-Neale</hi> perswaded him this Examinant to take part with the King, or something to that purpose; and that thereup<g ref="char:EOLhyphen"/>on this Examinant acquainted the Leivtenant Generall with it, and pre<g ref="char:EOLhyphen"/>sently repaired to his own quarter, to keep the Souldiers in order; where he staid not above two or three dayes, till he heard that <hi>O-Neal</hi> was fled. He further saith, that <hi>O-Neale</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ealt with him to have the troops move; To which he replyed, that he had received no such direction from his su<g ref="char:EOLhyphen"/>periours, nor from the King: And that then he offered him a paper, and pressed him to signe it; whereupon he this Examinant asked, if the gene<g ref="char:EOLhyphen"/>rall, or Lievtenant Generall had signed it; to which <hi>O Neale</hi> answering they had not, he said, that he would not be so unmannerly as to signe any thing before them, and refused to read it. He saith likewise that Captain <hi>Armstrong</hi> was present at the same time, and that <hi>O-Neale</hi> offered it to him; who looking upon this Examinant, this Examinant did shake his head at him, to make a signe that he should not doe it, and withall went out of the room: and <hi>Armstrong</hi> afterwards refused it giving this reason, That he would not signe it when his Colonell had refused it; which hee told this Examinant.</p>
+               <p>
+                  <hi>To the third</hi> he saith, That <hi>O-Neale</hi> told him he had very good autho<g ref="char:EOLhyphen"/>rity for what he did; but did not tell him from whom.</p>
+               <p>
+                  <hi>To the seventh.</hi> That Master <hi>O-Neale</hi> told him he was to goe to the Scottish Army, but saith he doth not know for what end and purpose he would go thither; for that hee this Examinant shunned to have any thing more to doe with him.</p>
+               <closer>
+                  <signed>Faulke Huncks.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of Sir <hi>William Balfour</hi> Lievtenant of the Tower, taken the second of June.</head>
+               <p>
+                  <hi>TO the first Interrog.</hi> he saith, he was commanded to receive Captaine <hi>Billingsley</hi> into the Tower with 100. men for securing of the place, and that he was told they should be under his command.</p>
+               <p>
+                  <hi>To the second Interrog.</hi> he saith, The Earl of Strafford told him it would be dangerous in case he should refuse to let them in.</p>
+               <pb n="44" facs="tcp:46219:28"/>
+               <p>
+                  <hi>To the third Interrog.</hi> He referreth himself to the former depositions of the three women, taken before the Constable and himselfe. And further saith, That the Earle of Strafford himself, after he had expostulated with him for holding M<seg rend="sup">r</seg>. <hi>Slingsby</hi> at the Tower gate; and after his telling the said Earle he had reason so to do, in regard of what the women had depo<g ref="char:EOLhyphen"/>sed, by which it appeared there was an escape intended by his Lordship; himselfe acknowledged he had named the word <hi>Escape</hi> twice or thrice in his discourse with M<seg rend="sup">r</seg>. <hi>Slingsby,</hi> but that he meant it should be by the Kings authority, to remove him out of the Tower to some other Castle; and that he did aske M<seg rend="sup">r</seg>. <hi>Slingsby</hi> where his brother was, and the ship.</p>
+               <p>
+                  <hi>To the fourth Interrog.</hi> This Examinant saith, the Earle of Strafford sent for him some three or foure dayes before his death, and did strive to per<g ref="char:EOLhyphen"/>swade him that he might make an escape; and said, for without your con<g ref="char:EOLhyphen"/>nivence I know it cannot be: and if you wil consent thereunto, I wil make you to have 20000. pounds paid you, besides a good marriage for your son: To which this Examinant replyed, he was so farre from concurring with his Lsh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p. as that his honor would not suffer him to connive at his e<g ref="char:EOLhyphen"/>scape; and withal told him, he was not to be moved to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earken thereunto.</p>
+               <closer>
+                  <signed>W. Balfour.</signed>
+                  <signed>Ex. in presence of us, Essex. Warwick. L. Wharton. Mandevile.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>James Wadsworth</hi> lies at the halfe Moone in Queen-street; at <hi>Cockets</hi> house a Joyner diverse Officers lye, which is the next doore. Die Martis <hi>4.</hi> Maii. <hi>1641.</hi>
+               </head>
+               <opener>
+                  <salute>
+                     <list>
+                        <item>
+                           <hi>Coll. Lindsey.</hi>
+                        </item>
+                        <item>
+                           <hi>Capt. Kirk.</hi>
+                        </item>
+                        <item>
+                           <hi>James Wadsworth.</hi>
+                        </item>
+                     </list>
+                  </salute>
+               </opener>
+               <p>HE saith that one ancient <hi>Knot</hi> told him severall times the last week, that Sir <hi>John Suckling</hi> was raising of Officers for three Regiments for Portugall: and saith that he this Examinant was at the Portugal Em<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs on sunday last, and then the Embassadour told him that hee knew not Sir <hi>John Suckling,</hi> nor any thing at all of Sir <hi>John Sucklings</hi> rai<g ref="char:EOLhyphen"/>sing of men for Portugall; and the Embassadour himselfe had no Com<g ref="char:EOLhyphen"/>mission to treat for any men till he heard out of Portugall.</p>
+            </div>
+            <div type="part">
+               <head>Tuesday the <hi>11.</hi> of May <hi>1641. The Examination of</hi> John Lanyon.</head>
+               <p>HE was upon Easter Eve last, and severall times since, troubled by Captaine <hi>Billingsley</hi> to enter into an expedition for <hi>Portugall</hi> with Sir <hi>John Suckling.</hi> And when this Examinant told him that he was His Majesties servant, and could not goe without leave, Captaine <hi>Billingsley</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id him take no care for that, he should have leave procured and further
+<pb n="45" facs="tcp:46219:28"/> desired him to get as many Canoneers as he could.</p>
+               <p>This Examinant doubting whether they were reall in that Designe, repaired to the Portugall Embassadors, and there understood from his Secretary, that he was willing to have men, but they knew neither Sir <hi>John Suckling,</hi> nor Captaine <hi>Billingsley;</hi> neither had they from them any Commission to raise men.</p>
+               <p>He likewise saith, that Captaine <hi>Billingsley</hi> did after solicite this Ex<g ref="char:EOLhyphen"/>aminant to come to Sir <hi>John Suckling,</hi> and that upon Sunday was sen<g ref="char:EOLhyphen"/>night last Sir <hi>John Suckling</hi> and Captaine <hi>Billingsley,</hi> with many other Officers repaired unto his house in the afternoone, and there staid two houres at least; The Examinant not comming in, they left a note hee should be with them that night at the Sparragus Garden at Supper: whereof this Examinant failing, Captaine <hi>Billingsley</hi> comes againe to his house the Monday morning, and not finding him there, left word that he must needs come to the Covent Garden to Sir <hi>John Sucklings</hi> lodging, which accordingly he did; but not finding him there, the same day he was with Captaine <hi>Billingsley</hi> at the Dog Tavern in Westminster, at which time he did further appoint this Examinant upon Wednesday to promise Sir <hi>Iohn Suckling</hi> a meeting at the Dolphin in Grayes-Inne-Lane about nine of the Clock in the foornoon, where the same day came some thirty more which were appointed by Sir <hi>Iohn Suckling</hi> and Capt. <hi>Billingsley;</hi> but neither Sir <hi>Iohn Suckling</hi> or <hi>Billingsley</hi> came, only there came one and gave them money, and so dismist them for the present.</p>
+               <p>This Examinant further saith, that Captaine <hi>Billingsley</hi> having notice that he had some store of Armes of his owne, told him, Sir <hi>Iohn Suckling</hi> would buy them all, if he pleased to sell them.</p>
+               <p>Captaine <hi>Billingsley</hi> likewise told this Examinant, that Sir <hi>Iohn Suck<g ref="char:EOLhyphen"/>ling</hi> had furnished himselfe for money, and all the company.</p>
+               <closer>
+                  <signed>Iohn Lanyon.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Quarto die Maii, <hi>1641.</hi>
+               </head>
+               <p>
+                  <hi>ELizabeth Nutt,</hi> wife of <hi>William Nutt</hi> of Tower-street London, Mer<g ref="char:EOLhyphen"/>chant, and <hi>Anne Bardsey</hi> of Tower-street aforesaid widow, say, that they being desirous to see the Earle of <hi>Strafford,</hi> came to <hi>Anne Vyner,</hi> wife of <hi>Thomas Vyner</hi> Clerk to the Lievtenant of the Tower, whose lod<g ref="char:EOLhyphen"/>ging being neare to the Kings Gallery, where the said Earl useth to walk carried them to a back doore of the said Gallery, the said Earl with one other being then walking. And they three being then there, and peeping through the key-hole and other places of the doore to see the said Earle; did heare him and the said other party conferring about an escape, as they conceived, saying, that it must be done when all was still, and asked the
+<pb n="46" facs="tcp:46219:29"/> said party where his Brothers Ship was, who said she was gone below in the River, and heard him say, that they three might be therein twelve houres, and doubted not to escape if something which was said concer<g ref="char:EOLhyphen"/>ning the Lievtenant of the Tower, were done; but what that was, as also where they might be in twelve houres, they could not heare by rea<g ref="char:EOLhyphen"/>son that when they walked further off, they could not perfectly heare. And the said Ms. <hi>Nutt</hi> and Ms. <hi>Bardsey</hi> say, that they heard the said Earl then say, that if this Fort could be safely guarded or secured for three or foure moneths, there would come aid enough: and divers other words tending to the purposes aforesaid, which they cannot now remember.</p>
+               <p>And further all of them say that they heard the said Earle, three times mention an escape, saying, that if any thing had bin done, his Majesty might safely have sent for him; but now there was nothing to be thought on, but an escape: And heard the said other party telling his Lordship, that the outward gates were now as surely guarded as those within. To whom the said Earle said, the easier our escape that way, pointing to the East, if the said pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty and some others should obey the directions of the said Earle: But what those were they know not; but heard the said p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rty answere, they would doe any thing his Lordship should command.</p>
+               <closer>
+                  <signed>
+                     <hi>Anne Vyner, Anne Bardsey.</hi> Signum, <hi>Eliza. E. N. Nut.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Superscription of the Letter.</hi> For my worthy friend Sir <hi>Lewes Dyves</hi> Knight, at the Earle of Bristols House in Queene-street, <hi>London.</hi>
+               </head>
+               <opener>
+                  <salute>Deare Brother,</salute>
+               </opener>
+               <p>I Hope you will have received the Letter which I wrote unto you from aboard Sir <hi>Iohn Pennington,</hi> wherein I gave you account of the ac<g ref="char:EOLhyphen"/>cident of <hi>O-neals</hi> man, and why I thought fitting to continue my journey into <hi>Holland;</hi> going still upon this ground, that if things goe on by way of accommodation, by my absence the King will be advantaged: If the King declare himselfe, and retire to a safe place, I shall be able to wait upon him from hence, aswell as out of any part of <hi>England,</hi> over and above the service which I may doe him here in the meane time. Besides
+<pb n="47" facs="tcp:46219:29"/> that, I found all the Ports so strict, that if I had not taken this opportu<g ref="char:EOLhyphen"/>nity of Sir <hi>Iohn Penningtons</hi> forwardnesse in the Kings service, it would have been impossible for me to have gotten away at any other time.</p>
+               <p>I am now here at Middleborough, at the Golden Fleece upon the Mar<g ref="char:EOLhyphen"/>ket, at one <hi>George Petersons</hi> house, where I will remaine till I receive from you advertisement of the state of things, and likewise instructions from their Majesties; which I desire you to hasten unto me by some safe hand: and withall to send unto me a cypher, whereby we may write un<g ref="char:EOLhyphen"/>to one another freely. If you knew how easie a passage it were, you would offer the King to come over for some few dayes your selfe. God knowes I have not a thought towards my Countrey to make me blush, much lesse criminall; but where Traytors have so great a sway, the ho<g ref="char:EOLhyphen"/>nestest thoughts may prove most treasonable.</p>
+               <p>Let <hi>Dick Sherley</hi> be dispatcht hither speedily, with such black cloaths and linnen as I have: and let your letters be directed to the Baron of Sherborne, for under that name I live unknowne. Let eare be taken for Bills of Exchange.</p>
+               <closer>
+                  <signed>Yours.</signed>
+                  <dateline>
+                     <hi>Middleborough,</hi>
+                     <date>
+                        <hi>Ian.</hi> 20. 1941.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Examination of <hi>Owen Connelly</hi> Gent. taken before us whose names ensue, the 22. of <hi>October</hi> 1641.</head>
+               <div type="section">
+                  <p>WHo being duly sworne and examined, saith, That hee being at Mommore in the County of London-Derry on Tuesday last, he received a Letter from Colonell <hi>Hugh Ogemacmahon,</hi> desiring him to come to Connagh in the County of Monayhan, and to be with him on Wednesday or Thursday last: wher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e this Examinant came to Connagh on Wednesday night last, and finding the said <hi>Hugh</hi> come to Dublin, followed him hither: He came hither about six of the clock this Evening, &amp; forthwith went to the lodging of the said <hi>Hugh,</hi> to the house neer the Boot in Oxmantowne, and there he found the said <hi>Hugh,</hi> and came with the said <hi>Hugh</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nto the towne, neere the Pillory, to the lodg<g ref="char:EOLhyphen"/>ing of the Lord <hi>Mac-quire;</hi> where they found not the Lord within: and there they dranke a cup of Beere, and then went back againe to the said <hi>Hugh</hi> his lodging. He saith that at the Lord <hi>Mac-quire</hi> his lodging the said <hi>Hugh</hi> told him that there were and would be this night great num<g ref="char:EOLhyphen"/>bers of Noblemen and Gent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emen of the Irish Papists, from all the parts of the Kingdome, in this Towne, who with himselfe had determined to take the Castle of Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lin, and possesse themselves of all his Majesties Ammunition there; and to morrow morning being Saturday: and that
+<pb n="48" facs="tcp:46219:30"/> they intended first to batter the Chimneyes of the said Towne; and if the City would not yeeld, then to batter downe the houses, and so to cut off all the Protestants that would not joyne with them.</p>
+                  <p>He saith further, That the said <hi>Hugh</hi> then told him, that the Irish had prepared men in all parts of the Kingdom, to destroy all the English in<g ref="char:EOLhyphen"/>habiting there to morrow morning by ten of the clock; and that in all the Sea-ports, and other Townes in the Kingdome, all the Protestants should be killed this night; and that all the Posts that could bee, could not prevent it. And further saith, That he moved the said <hi>Hugh</hi> to for<g ref="char:EOLhyphen"/>beare the executing of that businesse, &amp; to discover it to the State for the saving of his owne estate: who said, that he could not helpe it: But said, that they did owe their due allegeance to the King, and would pay him all his Rights, but that they did this for the tyrannicall Government was over them; and to imitate <hi>Scotland,</hi> who got a priviledge by that course. And he further saith, That when he was with the said <hi>Hugh</hi> in his lodg<g ref="char:EOLhyphen"/>ing the second time, the said <hi>Hugh</hi> swore that he should not goe out of his lodging that night, but told him that he should goe with him the next morning to the Castle, and said, if this matter were discovered, some body should dye for it: Whereupon this Examinant feigned some necessity for his easement, went downe out of the Chamber, and left his Sword in pawne, and the sai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Hugh</hi> sent his man downe with him: And when this Examinant came downe into the yard, finding an op<g ref="char:EOLhyphen"/>portunity, he this Examinan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> leaped over a wall and two pales, and so came to the Lord Justice <hi>Parsons.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Owen Oconnelly.</hi>
+                           </item>
+                           <item>
+                              <hi>William Parsons.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho: Rotheram.</hi>
+                           </item>
+                           <item>
+                              <hi>Rob: Meridith.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <date>
+                           <hi>October</hi> 22. 1641.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="section">
+                  <p>The examina<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion of <hi>Mark Pagett</hi> Parson of <hi>Morlestowne,</hi> neare <hi>Kingsa e</hi> in <hi>Ireland,</hi> and Dean<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <hi>Rosse</hi> there, had and taken a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>Plimmotcb,</hi> in the County of Devon: before <hi>Thomas Ceely</hi> Merchant, Maior of the Burrough of <hi>Plimmouth</hi> aforesaid, <hi>William Birch,</hi> and <hi>Ioh: Bound,</hi> Mer<g ref="char:EOLhyphen"/>chants, three of his Majesties Justices of the Peace, within the said Bur<g ref="char:EOLhyphen"/>rough, the fourh day of <hi>March</hi> 1641.</p>
+                  <p>The said Examin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt saith, That hee came from <hi>Kingsale</hi> this day was seven-night, and saith, that the Rebellion in <hi>Ireland</hi> is generall (ex<g ref="char:EOLhyphen"/>cept the Port Townes and Fortifications) and saith, that he conceiveth that the Forces of the Rebels in <hi>Munster</hi> is betweene twenty or thirty
+<pb n="49" facs="tcp:46219:30"/> thousand, which lye neare <hi>Corke</hi> and <hi>Bandam</hi> Bridge, in two bodies; whereof the chiefe of one is Baron <hi>Loughland,</hi> the Lord <hi>Mungarret,</hi> the Lord <hi>Dunboi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> and diverse other Lords: and the chiefe of the o<g ref="char:EOLhyphen"/>ther are <hi>Maoarte Reath, Teage Adowne, Teage Adun van Durmet, Glacke,</hi> and <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cke Phenning,</hi> and diverse others. And this Examinant hath for certaine heard, that the Earle of <hi>Clanrikard</hi> is likewise in Armes in <hi>Con<g ref="char:EOLhyphen"/>nough</hi> against the English Protestants; and further saith, that he know<g ref="char:EOLhyphen"/>eth that the Rebels have very good intelligence out of England, of all passages here, and for the most part sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>edier then the English have there: and further saith, that they threaten that as soone as they have rooted out the Brittish and English there, to invade <hi>England,</hi> and assist the Papists in <hi>England.</hi> And further saith, that they have the Popes Le<g ref="char:EOLhyphen"/>gate amongst them (as they report) who sits constantly in Counsell with Sir <hi>Philome Oneale,</hi> (who writes himselfe now Prince <hi>Oneale</hi> from his Pa<g ref="char:EOLhyphen"/>lace <hi>Charlemount:</hi>) the Lord <hi>Meggennys,</hi> and divers others, who directed and advis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d the rest of the Rebels. And farther saith, That the <hi>Irish</hi> Re<g ref="char:EOLhyphen"/>bels do rep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt that they have the Kings Warrant &amp; great Seale for what they doe, and say they are his Majesties true Subjects; and that the <hi>English</hi> Protestant are Rebels, and not they. And further saith, That the Rebels doe genenerally report, that there are three factions in <hi>England,</hi> whereof one is the Kings; which consists for the most part of Courtiers and Bi<g ref="char:EOLhyphen"/>shops, with some few Lords and Gentry: Another the Puritanes, which is supported by the House of Commons, some Lords, and the Corporati<g ref="char:EOLhyphen"/>ons and Cities in <hi>England:</hi> And the third is the Queenes, which they say is the greatest; and consists of the Catholiques, some Lords, all the Priests and Jesuits, besides the expectation they have of forraigne forces: And farther saith, That they report, that the Queenes faction will set such a division beweene the two others, that it will root out both of them at last. And farther saith, That the <hi>Irish</hi> doe brag, that the Queenes faction hath command afmost of the Forts and Forces of <hi>England.</hi> And this Ex<g ref="char:EOLhyphen"/>aminant farther saith, That hee knoweth this to be usually reported amongst their, for that hee hath lived in <hi>Ireland</hi> these two and thirty yeeres, and beene incumb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt of the said Church eighteen yeeres, and hath heard divers of the <hi>I ish</hi> Papists of the better sort to affi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me so much, which doth m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h hearten th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bels, and dishearten the <hi>English:</hi> And farther saith, That th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rebels have taken the Iron-workes at <hi>Glanorreth,</hi> and great quantities of Iron; and there, and else-where cast Ordinance, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke Muskets, beads for Pikes, Skeans, and other weapons; and far<g ref="char:EOLhyphen"/>ther saith, That the greatest part of the nin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thousand <hi>Irish</hi> souldiers which the Earle of <hi>Straff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rd</hi> had at <hi>Nockvargas</hi> in <hi>Ireland,</hi> and there ex<g ref="char:EOLhyphen"/>ercised
+<pb n="50" facs="tcp:46219:31"/> and trained a long time, are the most expert Commanders, Lea<g ref="char:EOLhyphen"/>ders, and Officers amongst the Rebels.</p>
+                  <closer>
+                     <signed>
+                        <hi>Thomas Ceely</hi> Maior.</signed>
+                  </closer>
+               </div>
+               <div type="section">
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <p>I Shall not adventure to write unto your Majesty with freedome, but by expresses, or till such time as I have a cipher, which I beseech your Majestie to vouchsafe me, At this time therefore I shall onely let your Majestie know where the humblest and most faithfull servant you have in the world is, Here at <hi>Middleborough</hi> where I shall remaine in the pri<g ref="char:EOLhyphen"/>vatest way I can, till I receive instructions how to serve the King and your Majesty in these parts. If the King betake himselfe to a safe place, where he may avow and protect his servants from rage (I meane) and vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce, for from Justice I will never implore it, I shall then live in impatience and in misery, till I waite upon you. But if after all he hath done of late, he shall betake himselfe to the easiest and complyantest wayes of accommodation: I am confident, that then I shall serve him more by my absence then by all my industry, and it will be a comfort to me in all calamities, if I cannot serve you by my actions, that I may doe it in some kinde by my sufferings for your sake; having (I protest to God) no measure of happinesse or misfortune in this world, but what I derive from your Majesties value of my affection and fidelity.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Middleborough</hi>
+                        <date>the 21. of <hi>Ianuary,</hi> 1641.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46219:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
